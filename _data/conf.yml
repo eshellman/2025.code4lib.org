@@ -16,18 +16,18 @@ catchline:
 # Hero
 ###########################
 # Place hero image in /assets/img/theme-images/. Includes optional webp format.
-hero-image-filename: 'hero.jpg'
-hero-image-source: ''
-hero-image-filename-webp: 'hero.webp'
-hero-image-alt: ""
+hero-image-filename: 'princeton.jpg'
+hero-image-source: 'https://unsplash.com/photos/JYqLCa-rv7o'
+hero-image-filename-webp: 'princeton.webp'
+hero-image-alt: "Princeton University campus"
 
 image-attributions:
  - attribution:
-   creator: ''
-   image-title: ""
-   image-url: ''
-   license-name: 'Copyright'
-   license-url: ''
+   creator: 'Tim Alex (@thelondoner)'
+   image-title: 'Nassau Hall, Princeton University'
+   image-url: 'https://unsplash.com/photos/JYqLCa-rv7o'
+   license-name: 'Unsplash License'
+   license-url: 'https://unsplash.com/license'
 
 ########################
 # Program & Schedule
@@ -44,6 +44,10 @@ have-menus: false
 
 # day 0 = dummy day so JS indexing can line up with human-readable semantics of which day of the conference something is happening
 days:
+  - weekday: Sunday
+    date: March 9th
+    # date in a form that JS Date() constructor understands
+    date-data: 2025-03-09:59
   - weekday: Monday
     date: March 10th
     # date in a form that JS Date() constructor understands
@@ -69,29 +73,62 @@ state: 'NJ'
 
 venue:
   name: 'Princeton University'
-  street:
-  postal-code:
-  phone:
+  street: McDonnell Hall
+  postal-code: 08540
   image: 
   image_alt: ''
   image_title: ''
   website:
-  floorplan:
-  directions:
-  a11y:
   hotel:
-    show: false
+    show: true
     multiple-hotels: true
     multiple-hotels-map:
-    name:
     reserved-room-block: false
-    cost:
-    with-tax-cost:
-    cost-cutoff-date:
-    check-in-time:
-    check-out-time:
-    self-parking-fee:
-    valet-parking-fee:
+    note: Due to the nature of hosting this conference on campus, there will not be a centralized hotel location in 2025. Below are hotels close to Princeton University campus and in the greater Princeton area.
+    hotel-options:
+      - name: Nassau Inn
+        street: 10 Palmer Square
+        city-state: Princeton, NJ
+        postal-code: 08542
+        phone: 609-921-7500
+        website: https://nassauinn.com/
+      - name: The Graduate
+        street: 10 Chambers Street
+        city-state: Princeton, NJ
+        postal-code: 08540
+        phone: 609-380-1457
+        website: https://graduatehotels.com/princeton
+      - name: Peacock Inn
+        street: 20 Bayard Lane
+        city-state: Princeton, NJ
+        postal-code: 08540
+        phone: 609-924-1707
+        website: https://www.peacockinn.com/
+      - name: Hyatt Regency Princeton
+        street: 102 Carnegie Center
+        city-state: Princeton, NJ
+        postal-code: 08540
+        phone: 609-987-1234
+        website: https://www.hyatt.com/en-US/hotel/new-jersey/hyatt-regency-princeton/princ
+      - name: Chauncey Conference Center
+        street: One Chauncey Road
+        city-state: Princeton, NJ
+        postal-code: 08541
+        phone: 609-921-3600
+        website: https://www.acc-chaunceyconferencecenter.com/accommodations
+      - name: Residence Inn Princeton at Carnegie Center
+        street: 3563 US Highway 1
+        city-state: Princeton, NJ
+        postal-code: 08540
+        phone: 609-799-0550
+        website: https://www.marriott.com/en-us/hotels/ttnww-residence-inn-princeton-at-carnegie-center/overview
+      - name: Hyatt Place Princeton
+        street: 3565 US Highway 1
+        city-state: Princeton, NJ
+        postal-code: 08540
+        phone: 609-720-0200
+        website: https://www.hyatt.com/en-US/hotel/new-jersey/hyatt-place-princeton/ewrzp
+
 
 ################
 # C4l Links
@@ -136,12 +173,9 @@ livestream:
 
 slides:
   show: false
-  url: 'https://osf.io/meetings/c4l24'
+  url: 'https://osf.io/meetings/c4l25'
   contact: ''
   email: ''
-
-slide-template:
-  url: '/assets/C4L2024-template.pptx'
 
 closed-captioning:
 #  url: https://www.streamtext.net/player?event=code4lib
@@ -195,10 +229,10 @@ peri:
 # If false, hides sponsors link in navigation and footer
 show-sponsors: false
 # Toggles whether prospectus button displays on homepage and sponsor pages
-sponsor-buttons: false
+sponsor-buttons: true
 # if true, the nav/footer links go to /prospectus/ instead of /sponsors/
 # for use early on when we are looking for, but do not have many, sponsors
-sponsors-links-to-prospectus: false
+sponsors-links-to-prospectus: true
 # URL to document
 prospectus-document: 'https://drive.google.com/file/d/1XY0RPNv_25SykOnvcTB3yipilUTWKb-E/view?usp=sharing'
 sponsor-btn-link: 'https://www.concentra-cms.com/c4l24sponsorreg.html'
@@ -289,7 +323,7 @@ shirt-voting:
 #social-activities-url: '/general-info/social/'
 
 diy-social:
-  show: false
+  show: true
 
 newcomer-dinner:
   show: false
@@ -337,7 +371,7 @@ tours:
 
 game-night:
   show: false
-  date: '2024-05-15'
+  date: '2025-03-12'
   time: '6:30pm'
   location: ''
   description: 'Join fellow Code4Libers at a BYO-Game and Snacks/Non-alcoholic drink Game Night!
@@ -354,7 +388,7 @@ game-night:
 volunteer-committee:
   show: true
   url: 'https://wiki.code4lib.org/Code4Lib_2025_Conference_Committees'
-  end-date: ''
+  end-date: '2024-09-30'
 
 volunteer-dutyoff:
   show: false
@@ -379,7 +413,7 @@ angel-fund:
   show: false
   # whether to show the "donation thermometer"
   # NOTE: chart <iframe> needs to be added to angel-fund.html
-  thermometer: true
+  thermometer: false
   url:
 
 diversity-scholarship-applications:
@@ -397,7 +431,7 @@ diversity-scholarship-applications:
 
 # show sponsors for diversity scholarships on general-info/scholarships
 diversity-scholarship-sponsors:
-  seeking: false
+  seeking: true
   show: false
 
 ################
@@ -410,9 +444,10 @@ live-captioning:
   service: 
 
 quiet-room:
-  show: false
+  show: true
   # Room number(s)
-  location: ''
+  location: 'Calm Room in the Lewis Library 2nd floor'
+  notes: There is also a space called the Relaxation Station in the Engineering Library B floor stacks which provides a calming environment to unwind with puzzles, coloring, and a weighted blanket.
 
 public-transportation:
   show: true
