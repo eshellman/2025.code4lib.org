@@ -1,0 +1,57 @@
+###############
+# Registration
+###############
+
+# include "$" in all "cost" strings, makes templates cleaner
+
+conference:
+  # "show" means display information on the home page and /general-info/attend
+  show: true
+  url: 'https://concentracms.regfox.com/code4lib-2024'
+  start-date: '2024-01-30'
+  start-time: 'noon EST / 9 a.m. PST'
+  end-date: '2024-04-16'
+  cancellation-date: '2024-04-16'
+  # "open" means people can register
+  open: false
+  cost: '$225'
+  late-cost: '$290'
+  workshop-half-day-cost: '$40'
+  workshop-full-day-cost: '$80'
+  limited-capacity: true
+  waitlist: false
+
+workshop-only:
+  # "show" only toggles the display of info in the registration bullets on the general-info/attend page
+  show: false
+  # "show-button" only affects a button on the general-info/attend page
+  show-button: false
+  undecided: false
+  undecided-text: "Depending on availability, Workshop-ONLY registration may open at the beginning of May."
+  url:
+  # workshop-only registration cost may differ from workshop registration with general registration
+  half-day-cost: '$50'
+  full-day-cost: '$100'
+  start-date:
+  end-date:
+
+t-shirt-only:
+  show: true
+  start-date: '2024-01-30'
+  cost: '$29'
+  # should be one or the other: have to purchase by last-date or cost changes after late-date
+  last-date: '2024-04-16'
+  # late-date: ''
+  # late-cost: ''
+
+childcare:
+  # "show" toggles the child care entry on /general-info/attend, under 'Additional Information' heading
+  show: false
+  # distinct from `show: false` in that we _know_ we won't be able to offer childcare
+  no-childcare:
+  no-childcare-text:
+  full-day-cost:
+  half-day-cost:
+  end-date:
+
+reception-plus-one-cost:
