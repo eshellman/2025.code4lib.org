@@ -84,7 +84,7 @@ venue:
     multiple-hotels: true
     multiple-hotels-map:
     reserved-room-block: false
-    note: Due to the nature of hosting this conference on campus, there will not be a centralized hotel location in 2025. Below are hotels close to Princeton University campus and in the greater Princeton area.
+    note: The Local Planning Committee is exploring room block options at local hotels, and details will be posted here as soon as they are available. Below are hotels close to Princeton University campus and in the greater Princeton area.
     hotel-options:
       - name: Nassau Inn
         street: 10 Palmer Square
