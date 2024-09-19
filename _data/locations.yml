@@ -1,0 +1,24 @@
+- id: lewis
+  name: Lewis Science Library
+  google_maps: https://maps.app.goo.gl/DGEejamzQhDDmaiN9
+  rooms:
+    - id: 117
+      name: 117
+    - id: 120
+      name: 120
+    - id: 121
+      name: 121
+    - id: 122
+      name: 122
+    - id: 134
+      name: 134
+    - id: 138
+      name: 138
+- id: mcdonnell
+  name: McDonnell Hall
+  google_maps: https://maps.app.goo.gl/Rp9hfvFHKWiE6EYr5
+  rooms:
+    - id: A02
+      name: A02
+    - id: BG
+      name: Brush Gallery
