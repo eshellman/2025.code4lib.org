@@ -76,10 +76,10 @@ venue:
   name: 'Princeton University'
   street: McDonnell Hall
   postal-code: 08540
-  image: 
-  image_alt: ''
-  image_title: ''
-  website:
+  image: mcdonnell.jpg
+  image_alt: 'An exterior view of McDonnell Hall, a red and brown striped brick building with an angular overhang. Steps lead to the main entrance, which is flanked by an access ramp, bicycles, and stairs to the lower level.'
+  image_title: 'McDonnell Hall'
+  note: 'Conference sessions will be held in McDonnell Hall and adjacent buildings Fine Hall and Lewis Library.'
   hotel:
     show: true
     multiple-hotels: true
@@ -183,7 +183,7 @@ closed-captioning:
 
 workshops:
   show: false
-  location: '/workshops'
+  location: lewis
 
 # Peri display descriptions and titles
 peri:
