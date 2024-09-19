@@ -34,8 +34,11 @@ title: code4lib 2025
                 {% if site.data.conf.welcome-message %}<p>{{site.data.conf.welcome-message}}</p>{% endif %}
                 {% if site.data.conf.venue.name != nil %}
                 <p>
-                    The conference took place at {{site.data.conf.venue.name}},
-                    in {{ site.data.conf.location }}.
+                    The conference
+                    {% if site.data.conf.homepage-display == 'pre' %} will take {% endif %}
+                    {% if site.data.conf.homepage-display == 'post' %} took {% endif %}
+                    {% if site.data.conf.homepage-display == 'peri' %} is taking {% endif %}
+                    place at {{site.data.conf.venue.name}}, in {{ site.data.conf.location }}.
                 </p>
                 <!-- <p class="alert alert-warning"><strong>Important schedule note:</strong> The main conference will begin on Monday at 1pm with the opening keynote. Tuesday and Wednesday are full conference days, followed by post-conference workshops on Thursday. Decisions about this year's conference schedule were based on venue availability. Keep an eye on <a href="/schedule/">the schedule</a> for details as the program is finalized.</p> -->
                 {% endif %}
