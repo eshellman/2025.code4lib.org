@@ -61,6 +61,7 @@ days:
   - weekday: Thursday
     date: March 13th
     date-data: 2025-03-13T23:59
+schedule-note: The main conference will be on Monday, March 10 through Wednesday, March 12, followed by post-conference workshops on Thursday, March 13. Decisions about this year's conference schedule were based on venue availability. Keep an eye on <a href="/schedule/">the schedule</a> for details as the program is finalized.
 
 ####################
 # Venue Information
