@@ -88,6 +88,7 @@ published: true
     </div>
 </section>
 
+{% if site.data.conf.show-sponsorship-details %}
 <section class="prospectus-padder">
     <div class="container">
         <div class="row">
@@ -338,6 +339,7 @@ published: true
 
     </div>
 </section>
+{% endif %}
 
 {% if site.data.conf.sponsor-contact-email != nil %}
 <!-- this floats in a tab along the side of the page -->
