@@ -298,9 +298,9 @@ workshop-voting:
   end-date: ''
 
 talk-voting:
-  show: false
-  url: 'https://forms.gle/Xgxxrkp3MhP6t82B9'
-  end-date: '2023-11-10'
+  show: true
+  url: 'https://docs.google.com/forms/d/e/1FAIpQLSeytK60BejrKTDjNtFt1je3yCCYBW2y22GF6qiaTkCFdUWctg/viewform'
+  end-date: '2024-11-07'
 
 panel-voting:
   show: false
@@ -390,7 +390,7 @@ game-night:
 volunteer-committee:
   show: true
   url: 'https://wiki.code4lib.org/Code4Lib_2025_Conference_Committees'
-  end-date: '2024-09-30'
+  end-date: '2024-10-31'
 
 volunteer-dutyoff:
   show: false
