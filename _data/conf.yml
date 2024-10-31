@@ -230,14 +230,14 @@ peri:
 # If false, hides sponsors link in navigation and footer
 show-sponsors: false
 # Toggles whether prospectus button displays on homepage and sponsor pages
-sponsor-buttons: false
+sponsor-buttons: true
 # if true, the nav/footer links go to /prospectus/ instead of /sponsors/
 # for use early on when we are looking for, but do not have many, sponsors
 sponsors-links-to-prospectus: true
 # URL to document
 prospectus-document:
-sponsor-btn-link:
-show-sponsorship-details: false
+sponsor-btn-link: https://www.concentra-cms.com/c4l25sponsorreg.html
+show-sponsorship-details: true
 
 ##########
 # !!!NOTE!!! All 'end-date' vars should be in the following format: YYYY-MM-DD
@@ -434,7 +434,7 @@ diversity-scholarship-applications:
 # show sponsors for diversity scholarships on general-info/scholarships
 diversity-scholarship-sponsors:
   seeking: true
-  show: false
+  show: true
 
 ################
 # Other
