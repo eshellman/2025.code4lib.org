@@ -94,7 +94,9 @@ published: true
         <div class="row">
             <div class="col-12">
                 <h2>Sponsorship Opportunities</h2>
-                <h3>General sponsorship levels</h3>
+                <h3 id="general">General sponsorship levels
+                  <a class="btn ct-btn-light btn-lg" href="#summary-general">Summary</a>
+                </h3>
             </div>
         </div>
 
@@ -211,14 +213,15 @@ published: true
                     </ul>
                 </div>
             </div>
-            <p style="width: 100%; text-align: center;"><img class="info-image" src="/assets/img/sponsors/chart-general.png" alt="Summary chart of general sponsorships"/></p>
         </div>
 
         <!-- targeted -->
         <div class="row" id="targetedSponsorship">
             <a name="Targeted-Sponsorship"></a>
             <div class="col-12">
-                <h3>Diversity, Accessibility and Inclusion Sponsorships</h3>
+                <h3 id="dai">Diversity, Accessibility and Inclusion Sponsorships
+                  <a class="btn ct-btn-light btn-lg" href="#summary-dai">Summary</a>
+                </h3>
             </div>
 
             <div class="col-12">
@@ -231,7 +234,7 @@ published: true
                 <div class="thumbnail">
                     <a name="Streaming"></a>
                     <h4>Streaming Video Sponsor</h4>
-                    <p><strong><span class="text-danger">1 available</span> at $2,500</strong></p>
+                    <p><strong><span class="text-danger">2 available</span> at $2,500</strong></p>
                     <p>
                         A live webcast and recording of the Code4Lib Conference is provided to ensure the entire community can participate. Sponsor benefits will include:
                     </p>
@@ -248,7 +251,7 @@ published: true
                 <div class="thumbnail">
                     <a name="Captioning"></a>
                     <h4>Captioning Sponsor</h4>
-                    <p><strong><span class="text-danger">None available</span> at $1,500</strong></p>
+                    <p><strong><span class="text-danger">2 available</span> at $1,500</strong></p>
                     <p>
                         To facilitate universal participation and access to conference content, real-time live transcription and closed captioning of all presentations, lightning talks, and announcements at the annual Code4Lib conference will be included with the webstream, along with full transcription after the fact to accompany recordings. Sponsor benefits will include:
                     </p>
@@ -315,8 +318,6 @@ published: true
                     </ul>
                 </div>
             </div>
-
-            <p style="width: 100%; text-align: center;"><img class="info-image" src="/assets/img/sponsors/chart-dai.png" alt="Summary chart of Diversity, Accessibility, and Inclusion sponsorships"/></p>
         </div>
 
         <!-- Exhibitor Tables -->
@@ -324,6 +325,7 @@ published: true
             <a name="Exhibitor-Tables"></a>
             <div class="col-12">
                 <h3>Exhibitor Tables</h3>
+                <p><strong><span class="text-danger">6 available</span></p>
             </div>
 
             <div class="col-12">
@@ -353,4 +355,19 @@ published: true
         </p>
     </div>
 </div>
+{% endif %}
+
+{% if site.data.conf.show-sponsorship-details %}
+<section class="prospectus-summary">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <p id="summary-general" style="width: 100%; text-align: center;"><img class="info-image" src="/assets/img/sponsors/chart-general.png" alt="Summary chart of general sponsorships"/></p>
+                <p class="text-right small"><a href="#general">Return to General Sponsorships</a></p>
+                <p id="summary-dai" style="width: 100%; text-align: center;"><img class="info-image" src="/assets/img/sponsors/chart-dai.png" alt="Summary chart of Diversity, Accessibility, and Inclusion sponsorships"/></p>
+                <p class="text-right small"><a href="#dai">Return to Diversity, Accessibility and Inclusion Sponsorships</a></p>
+            </div>
+        </div>
+    </div>
+</section>
 {% endif %}
