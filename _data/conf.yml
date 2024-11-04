@@ -249,9 +249,9 @@ show-sponsorship-details: false
 ###########
 
 keynote-proposals:
-  show: false
-  submission-form: 'https://wiki.code4lib.org/2024_Keynote_Speakers_Nominations'
-  end-date: '2023-11-16'
+  show: true
+  submission-form: 'https://wiki.code4lib.org/2025_Keynote_Speakers_Nominations'
+  end-date: '2024-11-22'
 
 workshop-proposals:
   show: false
