@@ -36,11 +36,11 @@ workshop-only:
   end-date:
 
 t-shirt-only:
-  show: false
-  start-date: '2024-01-30'
+  show: true
+  start-date: '2024-12-16'
   cost: '$29'
   # should be one or the other: have to purchase by last-date or cost changes after late-date
-  last-date: '2024-04-16'
+  last-date: '2025-02-11'
   # late-date: ''
   # late-cost: ''
 
