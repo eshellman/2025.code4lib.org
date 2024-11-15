@@ -6,16 +6,16 @@
 
 conference:
   # "show" means display information on the home page and /general-info/attend
-  show: false
-  url: 'https://concentracms.regfox.com/code4lib-2024'
-  start-date: '2024-01-30'
+  show: true
+  url:
+  start-date: '2024-12-16'
   start-time: 'noon EST / 9 a.m. PST'
-  end-date: '2024-04-16'
-  cancellation-date: '2024-04-16'
+  end-date: '2025-02-11'
+  cancellation-date: '2025-02-11'
   # "open" means people can register
   open: false
-  cost: '$225'
-  late-cost: '$290'
+  cost: '$250'
+  late-cost: '$299'
   workshop-half-day-cost: '$40'
   workshop-full-day-cost: '$80'
   limited-capacity: true
