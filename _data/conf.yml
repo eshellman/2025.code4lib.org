@@ -82,23 +82,27 @@ venue:
   note: 'Conference sessions will be held in McDonnell Hall and adjacent buildings Fine Hall and Lewis Library.'
   hotel:
     show: true
+    name: The Graduate
+    cost: $269/night (king) or $299/night (two doubles)
+    cost-cutoff-date: 2025-01-23
+    reserved-room-block: true
+    link: https://www.hilton.com/en/hotels/pctgpgu-graduate-princeton/
     multiple-hotels: true
     multiple-hotels-map:
-    reserved-room-block: false
-    note: The Local Planning Committee is exploring room block options at local hotels, and details will be posted here as soon as they are available. Below are hotels close to Princeton University campus and in the greater Princeton area.
+    note: "Contact information for hotels in the Princeton area:"
     hotel-options:
+      - name: The Graduate
+        street: 10 Chambers Street
+        city-state: Princeton, NJ
+        postal-code: 08540
+        phone: 609-380-1457
+        website: https://www.hilton.com/en/hotels/pctgpgu-graduate-princeton/
       - name: Nassau Inn
         street: 10 Palmer Square
         city-state: Princeton, NJ
         postal-code: 08542
         phone: 609-921-7500
         website: https://nassauinn.com/
-      - name: The Graduate
-        street: 10 Chambers Street
-        city-state: Princeton, NJ
-        postal-code: 08540
-        phone: 609-380-1457
-        website: https://graduatehotels.com/princeton
       - name: Peacock Inn
         street: 20 Bayard Lane
         city-state: Princeton, NJ
