@@ -260,7 +260,7 @@ keynote-proposals:
 workshop-proposals:
   show: true
   submission-form: 'https://docs.google.com/forms/d/e/1FAIpQLSchZV9hUVHG7rzp0LEqSdzNrRlvrc3JYqcNODBFIFNuZu5raA/viewform?usp=sf_link'
-  end-date: '2024-11-20'
+  end-date: '2024-11-27'
 
 talk-proposals:
   show: false
