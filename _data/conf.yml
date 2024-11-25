@@ -292,9 +292,9 @@ host-proposals:
 ###########
 
 keynote-voting:
-  show: false
-  url: 'https://docs.google.com/forms/d/e/1FAIpQLSeLRCymzhxerfvujseIkJebjwQ04cjURDgS-DI-h3p_c9feWw/viewform'
-  end-date: '2023-12-20'
+  show: true
+  url: 'https://forms.gle/tREB6sR1QXzQax3p6'
+  end-date: '2024-12-13'
 
 workshop-voting:
   show: false
