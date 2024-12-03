@@ -292,9 +292,9 @@ host-proposals:
 ###########
 
 keynote-voting:
-  show: false
-  url: 'https://docs.google.com/forms/d/e/1FAIpQLSeLRCymzhxerfvujseIkJebjwQ04cjURDgS-DI-h3p_c9feWw/viewform'
-  end-date: '2023-12-20'
+  show: true
+  url: 'https://forms.gle/Hg1W285awBrLWXGx6'
+  end-date: '2024-12-13'
 
 workshop-voting:
   show: false
@@ -392,7 +392,7 @@ game-night:
 ###############
 
 volunteer-committee:
-  show: true
+  show: false
   url: 'https://wiki.code4lib.org/Code4Lib_2025_Conference_Committees'
   end-date: '2024-10-31'
 
