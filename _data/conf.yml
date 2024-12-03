@@ -392,7 +392,7 @@ game-night:
 ###############
 
 volunteer-committee:
-  show: true
+  show: false
   url: 'https://wiki.code4lib.org/Code4Lib_2025_Conference_Committees'
   end-date: '2024-10-31'
 
