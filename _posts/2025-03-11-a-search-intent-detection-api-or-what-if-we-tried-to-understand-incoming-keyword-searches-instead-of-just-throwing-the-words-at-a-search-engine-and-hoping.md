@@ -12,7 +12,7 @@ location: mcdonnell
 speakers:
 - jeremy-prevost
 - matt-bernhardt
-speaker-text: Jeremy Prevost, Matt Bernhardt, 
+speaker-text: Jeremy Prevost, Matt Bernhardt
 title: "A search intent detection API: or, what if we tried to understand incoming keyword searches instead of just throwing the words at a search engine and hoping?"
 ---
 Have you ever wondered if there was a way to understand what type of search a user was doing? Have you ever considered what types of interventions might be possible if we understood a user was looking for topical information and not a specific item (or vice versa)?

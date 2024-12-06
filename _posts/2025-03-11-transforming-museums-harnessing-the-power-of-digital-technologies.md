@@ -11,7 +11,7 @@ spot: 3
 location: mcdonnell
 speakers:
 - marina-fischer
-speaker-text: Marina Fischer, , 
+speaker-text: Marina Fischer
 title: "Transforming Museums: Harnessing the Power of Digital Technologies"
 ---
 The rise of digital imagery and new technologies is reshaping traditional art galleries and museums. Many are embracing hybrid models that blend physical and digital experiences, acknowledging the value of in-person artwork while leveraging technology to broaden their reach and enhance visitor engagement.

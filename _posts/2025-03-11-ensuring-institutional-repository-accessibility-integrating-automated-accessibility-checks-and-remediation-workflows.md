@@ -12,7 +12,7 @@ location: mcdonnell
 speakers:
 - sarah-smulligan
 - binky-lush
-speaker-text: Sarah Smulligan, Binky Lush, 
+speaker-text: Sarah Smulligan, Binky Lush
 title: "Ensuring Institutional Repository Accessibility: Integrating Automated Accessibility Checks and Remediation Workflows"
 ---
 We will outline an enhanced Institutional Repository deposit workflow that includes new accessibility testing protocols, feedback mechanisms, and seamless integration into the existing institutional repository deposit process. This workflow includes integrated accessibility testing tools, allowing researchers to receive feedback on their submissions in real time.  

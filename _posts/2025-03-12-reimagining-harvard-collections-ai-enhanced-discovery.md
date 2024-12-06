@@ -11,7 +11,7 @@ spot: 2
 location: mcdonnell
 speakers:
 - jj-chen
-speaker-text: JJ Chen, , 
+speaker-text: JJ Chen
 title: "Reimagining Harvard Collections: AI-enhanced Discovery"
 ---
 In the spring of 2024, the Harvard Library launched the Reimagining Discovery project, an ambitious initiative aimed at uncovering new ways to surface and enable discovery of Harvard’s vast and distinctive special collections. The first phase focuses on developing a platform called Collections Explorer, which leverages semantic search and generative AI technologies to allow Harvard community and researchers worldwide to explore Harvard’s collections through natural language queries. Key technical highlights of Collections Explorer are retrieval-augmented text generation using Amazon Bedrock and implementation of semantic search using open source components.

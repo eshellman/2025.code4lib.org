@@ -11,7 +11,7 @@ spot: 1
 location: mcdonnell
 speakers:
 - monique-rio
-speaker-text: Monique Rio, , 
+speaker-text: Monique Rio
 title: "LC Subject Heading Remapping: Making Good on Good Intentions"
 ---
 Library of Congress subject headings don't always reflect the values of the institutions using them, and they change at the speed of Congress. Over the years there has been a desire for institutions to choose for themselves what words to use for LC terms, and there have been a variety of ways to do this.

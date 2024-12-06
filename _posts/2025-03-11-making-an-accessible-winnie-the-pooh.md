@@ -11,7 +11,7 @@ spot: 1
 location: mcdonnell
 speakers:
 - eric-hellman
-speaker-text: Eric Hellman, , 
+speaker-text: Eric Hellman
 title: "Making an accessible Winnie-the-Pooh"
 ---
 Until the recent implementations of the Marrakesh treaty, accessible versions of ebooks could not be shared across national borders. However, this prohibition has not applied to books that are in the public domain or have open access licenses. Unfortunately, less than 5% of the OA ebooks at OAPEN are accessible to people with visual disabilities, and until recently, none of the public domain ebooks at Project Gutenberg satisfied basic accessibility standards.

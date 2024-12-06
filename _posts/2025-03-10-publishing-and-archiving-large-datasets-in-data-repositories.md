@@ -12,7 +12,7 @@ location: mcdonnell
 speakers:
 - jerry-kuang
 - reid-boehm
-speaker-text: Jerry Kuang, Reid Boehm, 
+speaker-text: Jerry Kuang, Reid Boehm
 title: "Publishing and Archiving Large Datasets in Data Repositories"
 ---
 Researchers collect and analyze large datasets in a majority of academic areas. At Purdue we receive a lot of requests from researchers who desire to publish and share the large datasets in the university’s data repository, which is the platform for researchers to share and publish datasets and meet federal funding agency recommendations and requirements for dataset sharing.  

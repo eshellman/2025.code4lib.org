@@ -11,7 +11,7 @@ spot: 5
 location: mcdonnell
 speakers:
 - ryan-harpo-harbert
-speaker-text: Ryan "Harpo" Harbert, , 
+speaker-text: Ryan "Harpo" Harbert
 title: "Whisper at High Volumes: How to transcribe an Archive"
 ---
 The American Archive of Public Broadcasting (AAPB) hosts over 200,000 digitized video and audio assets from over 200 contributing stations, across many decades. A collaboration between the Library of Congress and GBH (WGBH Boston), the collection spans over 100 years of media history.

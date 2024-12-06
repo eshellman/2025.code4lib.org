@@ -11,7 +11,7 @@ spot: 1
 location: mcdonnell
 speakers:
 - mike-kastellec
-speaker-text: Mike Kastellec, , 
+speaker-text: Mike Kastellec
 title: "The Subtle Art of Not Giving a F*ck About Getting Things Done"
 ---
 Productivity advice is overwhelming, with endless systems promising to change your life. I'm not an evangelist for any single system; I'm just a cog in a same flawed machine we’re all part of, trying to get my sh*t done and staving off burnout. I've read every productivity book in existence and tried enough task management tools and I have come to the conclusion that they work about as well as fad diets: they can help in the short-term but it's nearly impossible to stick to one rigorously. If you discard the chaff, though, there are insights to glean from each, and these fundamentals can form the basis of a flexible, individualized productivity system. I’m not offering a one-size-fits-all solution—just the building blocks to help you craft your own.

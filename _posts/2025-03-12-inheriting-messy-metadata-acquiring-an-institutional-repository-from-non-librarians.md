@@ -11,7 +11,7 @@ spot: 3
 location: mcdonnell
 speakers:
 - challen-wright
-speaker-text: Challen Wright, , 
+speaker-text: Challen Wright
 title: "Inheriting Messy Metadata: Acquiring an Institutional Repository from Non-Librarians"
 ---
 In early 2024, the University of Nevada, Reno Libraries began the process of acquiring the university’s Institutional Repository (IR) from a separate campus entity that was not associated with the Libraries. As a part of the acquisition process, the Libraries assessed the IR’s current content management system and metadata, migrated the repository to a newer version of DSpace, created new workflows for the submission and ingest process, and rebranded the system. The new IR was officially launched in October 2024 with the understanding that work on the system would continue through 2025.

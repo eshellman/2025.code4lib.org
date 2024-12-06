@@ -12,7 +12,7 @@ location: mcdonnell
 speakers:
 - jen-diamond
 - axa-liauw
-speaker-text: Jen Diamond, Axa Liauw, 
+speaker-text: Jen Diamond, Axa Liauw
 title: "The Dev & Designer Power Duo -- Secrets to Seamless Collaboration"
 ---
 Unlock the magic that happens when designers and developers work in harmony. In this talk, we’ll dive into how collaboration across the entire project lifecycle—from that first spark of teamwork—sets the stage for projects that truly shine.
