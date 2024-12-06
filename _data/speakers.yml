@@ -1,8 +1,8 @@
 - id: aj-bealum
   name: AJ Bealum
   last: Bealum
-  pronouns:
-  institution:
+  pronouns: He/Him
+  institution: California State Polytechnic University, Humboldt
   position-title:
   bio:
   image_alt:
@@ -10,8 +10,8 @@
 - id: alyssa-panetta
   name: Alyssa Panetta
   last: Panetta
-  pronouns:
-  institution:
+  pronouns: she/her/hers
+  institution: University at Albany
   position-title:
   bio:
   image_alt:
@@ -19,8 +19,8 @@
 - id: andrew-battelini
   name: Andrew Battelini
   last: Battelini
-  pronouns:
-  institution:
+  pronouns: They/He
+  institution: Emory University
   position-title:
   bio:
   image_alt:
@@ -28,8 +28,8 @@
 - id: andromeda-yelton
   name: Andromeda Yelton
   last: Yelton
-  pronouns:
-  institution:
+  pronouns: she/her/hers
+  institution: JSTOR Labs
   position-title:
   bio:
   image_alt:
@@ -37,8 +37,8 @@
 - id: axa-liauw
   name: Axa Liauw
   last: Liauw
-  pronouns:
-  institution:
+  pronouns: she/her/hers
+  institution: UCLA
   position-title:
   bio:
   image_alt:
@@ -46,8 +46,8 @@
 - id: beck-davis
   name: Beck Davis
   last: Davis
-  pronouns:
-  institution:
+  pronouns: they/them/their
+  institution: Princeton University Library
   position-title:
   bio:
   image_alt:
@@ -55,8 +55,8 @@
 - id: bess-sadler
   name: Bess Sadler
   last: Sadler
-  pronouns:
-  institution:
+  pronouns: They/them
+  institution: Princeton University Library
   position-title:
   bio:
   image_alt:
@@ -64,8 +64,8 @@
 - id: binky-lush
   name: Binky Lush
   last: Lush
-  pronouns:
-  institution:
+  pronouns: she/her/hers
+  institution: Pennsylvania State University
   position-title:
   bio:
   image_alt:
@@ -73,8 +73,8 @@
 - id: brandon-patterson
   name: Brandon Patterson
   last: Patterson
-  pronouns:
-  institution:
+  pronouns: he/him/his
+  institution: University of Utah
   position-title:
   bio:
   image_alt:
@@ -82,8 +82,8 @@
 - id: brendan-quinn
   name: Brendan Quinn
   last: Quinn
-  pronouns:
-  institution:
+  pronouns: He/His
+  institution: Northwestern University Libraries
   position-title:
   bio:
   image_alt:
@@ -91,8 +91,8 @@
 - id: brian-cain
   name: Brian Cain
   last: Cain
-  pronouns:
-  institution:
+  pronouns: he/him/his
+  institution: Los Alamos National Laboratory
   position-title:
   bio:
   image_alt:
@@ -100,8 +100,8 @@
 - id: challen-wright
   name: Challen Wright
   last: Wright
-  pronouns:
-  institution:
+  pronouns: he/they
+  institution: University of Nevada, Reno
   position-title:
   bio:
   image_alt:
@@ -109,8 +109,8 @@
 - id: charlotte-kostelic
   name: Charlotte Kostelic
   last: Kostelic
-  pronouns:
-  institution:
+  pronouns: she/her/hers
+  institution: New York Public Library/Brooklyn Public Library
   position-title:
   bio:
   image_alt:
@@ -118,8 +118,8 @@
 - id: david-schober
   name: David Schober
   last: Schober
-  pronouns:
-  institution:
+  pronouns: He/His
+  institution: Northwestern University Libraries
   position-title:
   bio:
   image_alt:
@@ -127,8 +127,8 @@
 - id: denzil-phillips
   name: Denzil Phillips
   last: Phillips
-  pronouns:
-  institution:
+  pronouns: he/him/his
+  institution: Princeton University Library
   position-title:
   bio:
   image_alt:
@@ -136,8 +136,8 @@
 - id: devon-murphy
   name: Devon Murphy
   last: Murphy
-  pronouns:
-  institution:
+  pronouns: they/them/their
+  institution: University of Texas at Austin
   position-title:
   bio:
   image_alt:
@@ -146,7 +146,7 @@
   name: Diane Lopez
   last: Lopez
   pronouns:
-  institution:
+  institution: University of Texas at San Antonio
   position-title:
   bio:
   image_alt:
@@ -154,8 +154,8 @@
 - id: emily-lynema
   name: Emily Lynema
   last: Lynema
-  pronouns:
-  institution:
+  pronouns: she/her/hers
+  institution: Indiana University
   position-title:
   bio:
   image_alt:
@@ -163,8 +163,8 @@
 - id: eric-hellman
   name: Eric Hellman
   last: Hellman
-  pronouns:
-  institution:
+  pronouns: 他
+  institution: Free Ebook Foundation
   position-title:
   bio:
   image_alt:
@@ -172,8 +172,8 @@
 - id: gavin-mendel-gleason
   name: Gavin Mendel-Gleason
   last: Mendel-Gleason
-  pronouns:
-  institution:
+  pronouns: he/him/his
+  institution: Yale University Library
   position-title:
   bio:
   image_alt:
@@ -182,7 +182,7 @@
   name: Javier Ruedas
   last: Ruedas
   pronouns:
-  institution:
+  institution: University of Texas at San Antonio
   position-title:
   bio:
   image_alt:
@@ -190,8 +190,8 @@
 - id: jen-diamond
   name: Jen Diamond
   last: Diamond
-  pronouns:
-  institution:
+  pronouns: she/her/hers
+  institution: UCLA
   position-title:
   bio:
   image_alt:
@@ -199,7 +199,7 @@
 - id: jeremy-prevost
   name: Jeremy Prevost
   last: Prevost
-  pronouns:
+  pronouns: he/him
   institution:
   position-title:
   bio:
@@ -208,8 +208,8 @@
 - id: jeremy-thompson
   name: Jeremy Thompson
   last: Thompson
-  pronouns:
-  institution:
+  pronouns: he/him/his
+  institution: University of Texas Libraries
   position-title:
   bio:
   image_alt:
@@ -217,7 +217,7 @@
 - id: jerry-kuang
   name: Jerry Kuang
   last: Kuang
-  pronouns:
+  pronouns: he/him/his
   institution:
   position-title:
   bio:
@@ -226,8 +226,8 @@
 - id: jj-chen
   name: JJ Chen
   last: Chen
-  pronouns:
-  institution:
+  pronouns: she/her/hers
+  institution: Harvard University - Library Technology Services
   position-title:
   bio:
   image_alt:
@@ -235,8 +235,8 @@
 - id: john-dewees
   name: John Dewees
   last: Dewees
-  pronouns:
-  institution:
+  pronouns: he/him/his
+  institution: University of Rochester
   position-title:
   bio:
   image_alt:
@@ -244,8 +244,8 @@
 - id: jon-page
   name: Jon Page
   last: Page
-  pronouns:
-  institution:
+  pronouns: he/him/his
+  institution: NC State University Libraries
   position-title:
   bio:
   image_alt:
@@ -253,8 +253,8 @@
 - id: karla-roig-blay
   name: Karla Roig Blay
   last: Blay
-  pronouns:
-  institution:
+  pronouns: she/her/hers
+  institution: University of Texas Libraries
   position-title:
   bio:
   image_alt:
@@ -262,7 +262,7 @@
 - id: katherine-kate-deibel
   name: Katherine "Kate" Deibel
   last: Deibel
-  pronouns:
+  pronouns: she/her/hers
   institution:
   position-title:
   bio:
@@ -271,7 +271,7 @@
 - id: kelly-riddle
   name: Kelly Riddle
   last: Riddle
-  pronouns:
+  pronouns: she/her/hers
   institution:
   position-title:
   bio:
@@ -281,7 +281,7 @@
   name: Kyeongmin Rim
   last: Rim
   pronouns:
-  institution:
+  institution: Brandeis University
   position-title:
   bio:
   image_alt:
@@ -289,8 +289,8 @@
 - id: lauren-gallina
   name: Lauren Gallina
   last: Gallina
-  pronouns:
-  institution:
+  pronouns: she/her/hers
+  institution: University of Rochester
   position-title:
   bio:
   image_alt:
@@ -299,7 +299,7 @@
   name: Marc Verhagen
   last: Verhagen
   pronouns:
-  institution:
+  institution: Brandeis University
   position-title:
   bio:
   image_alt:
@@ -307,8 +307,8 @@
 - id: marina-fischer
   name: Marina Fischer
   last: Fischer
-  pronouns:
-  institution:
+  pronouns: she/her
+  institution: University of Calgary
   position-title:
   bio:
   image_alt:
@@ -316,7 +316,7 @@
 - id: matt-bernhardt
   name: Matt Bernhardt
   last: Bernhardt
-  pronouns:
+  pronouns: he/him
   institution:
   position-title:
   bio:
@@ -326,7 +326,7 @@
   name: Matthew Elliott
   last: Elliott
   pronouns:
-  institution:
+  institution: University of Utah
   position-title:
   bio:
   image_alt:
@@ -334,8 +334,8 @@
 - id: michelle-janowiecki
   name: Michelle Janowiecki
   last: Janowiecki
-  pronouns:
-  institution:
+  pronouns: she/her/hers
+  institution: Johns Hopkins Sherdian Libraries
   position-title:
   bio:
   image_alt:
@@ -343,8 +343,8 @@
 - id: mike-kastellec
   name: Mike Kastellec
   last: Kastellec
-  pronouns:
-  institution:
+  pronouns: he/him/his
+  institution: NC State University Libraries
   position-title:
   bio:
   image_alt:
@@ -352,8 +352,8 @@
 - id: mirko-hanke
   name: Mirko Hanke
   last: Hanke
-  pronouns:
-  institution:
+  pronouns: he/him/his
+  institution: University of Texas Libraries
   position-title:
   bio:
   image_alt:
@@ -361,8 +361,8 @@
 - id: monique-rio
   name: Monique Rio
   last: Rio
-  pronouns:
-  institution:
+  pronouns: she/they
+  institution: University of Michigan
   position-title:
   bio:
   image_alt:
@@ -370,8 +370,8 @@
 - id: owen-king
   name: Owen King
   last: King
-  pronouns:
-  institution:
+  pronouns: he/him
+  institution: GBH Archives
   position-title:
   bio:
   image_alt:
@@ -379,7 +379,7 @@
 - id: reid-boehm
   name: Reid Boehm
   last: Boehm
-  pronouns:
+  pronouns: she/her/hers
   institution:
   position-title:
   bio:
@@ -388,8 +388,8 @@
 - id: ryan-harpo-harbert
   name: Ryan "Harpo" Harbert
   last: Harbert
-  pronouns:
-  institution:
+  pronouns: he/him/his
+  institution: GBH Media Library & Archives
   position-title:
   bio:
   image_alt:
@@ -398,7 +398,7 @@
   name: Sarah Hensler
   last: Hensler
   pronouns:
-  institution:
+  institution: Indiana University Bloomington
   position-title:
   bio:
   image_alt:
@@ -406,8 +406,8 @@
 - id: sarah-smulligan
   name: Sarah Smulligan
   last: Smulligan
-  pronouns:
-  institution:
+  pronouns: she/her/hers
+  institution: Pennsylvania State University
   position-title:
   bio:
   image_alt:
@@ -415,8 +415,8 @@
 - id: timothy-a-thompson
   name: Timothy A. Thompson
   last: Thompson
-  pronouns:
-  institution:
+  pronouns: he/him/his
+  institution: Yale University Library
   position-title:
   bio:
   image_alt:
@@ -424,8 +424,8 @@
 - id: vickie-karasic
   name: Vickie Karasic
   last: Karasic
-  pronouns:
-  institution:
+  pronouns: she/her/hers
+  institution: Princeton University Library
   position-title:
   bio:
   image_alt:
