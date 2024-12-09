@@ -43,6 +43,8 @@ have-schedule-details: true
 have-menus: false
 
 # day 0 = dummy day so JS indexing can line up with human-readable semantics of which day of the conference something is happening
+# note: these dates and times are used in the top-level schedule page, but the more granular
+# schedule is taken from schedule.yml, so be careful to make sure that they agree.
 days:
   - weekday: Sunday
     date: March 9th
@@ -52,15 +54,19 @@ days:
     date: March 10th
     # date in a form that JS Date() constructor understands
     date-data: 2025-03-10T23:59
+    time: 9AM to 5:15PM
   - weekday: Tuesday
     date: March 11th
     date-data: 2025-03-11T23:59
+    time: 9AM to 5:15PM
   - weekday: Wednesday
     date: March 12th
     date-data: 2025-03-12T23:59
+    time: 9AM to 1:15PM
   - weekday: Thursday
     date: March 13th
     date-data: 2025-03-13T23:59
+    time: 9AM to 4:30PM
 schedule-note: The main conference will be on Monday, March 10 through Wednesday, March 12, followed by post-conference workshops on Thursday, March 13. Decisions about this year's conference schedule were based on venue availability. Keep an eye on <a href="/schedule/">the schedule</a> for details as the program is finalized.
 
 ####################
