@@ -2,16 +2,7 @@
 layout: presentation
 speakers-text: Libby Hemphill
 speaker: libby-hemphill
-day: 1
-group: key-open
-spot: 1
-length: 45
-type: key-open
-startTime: 2024-05-13T13:15
-categories: keynote
 title:
-slides:
-youtube_key:
 
 ---
 

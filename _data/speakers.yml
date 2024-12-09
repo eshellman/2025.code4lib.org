@@ -1,0 +1,432 @@
+- id: aj-bealum
+  name: AJ Bealum
+  last: Bealum
+  pronouns: He/Him
+  institution: California State Polytechnic University, Humboldt
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: alyssa-panetta
+  name: Alyssa Panetta
+  last: Panetta
+  pronouns: she/her/hers
+  institution: University at Albany
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: andrew-battelini
+  name: Andrew Battelini
+  last: Battelini
+  pronouns: They/He
+  institution: Emory University
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: andromeda-yelton
+  name: Andromeda Yelton
+  last: Yelton
+  pronouns: she/her/hers
+  institution: JSTOR Labs
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: axa-liauw
+  name: Axa Liauw
+  last: Liauw
+  pronouns: she/her/hers
+  institution: UCLA
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: beck-davis
+  name: Beck Davis
+  last: Davis
+  pronouns: they/them/their
+  institution: Princeton University Library
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: bess-sadler
+  name: Bess Sadler
+  last: Sadler
+  pronouns: They/them
+  institution: Princeton University Library
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: binky-lush
+  name: Binky Lush
+  last: Lush
+  pronouns: she/her/hers
+  institution: Pennsylvania State University
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: brandon-patterson
+  name: Brandon Patterson
+  last: Patterson
+  pronouns: he/him/his
+  institution: University of Utah
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: brendan-quinn
+  name: Brendan Quinn
+  last: Quinn
+  pronouns: He/His
+  institution: Northwestern University Libraries
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: brian-cain
+  name: Brian Cain
+  last: Cain
+  pronouns: he/him/his
+  institution: Los Alamos National Laboratory
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: challen-wright
+  name: Challen Wright
+  last: Wright
+  pronouns: he/they
+  institution: University of Nevada, Reno
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: charlotte-kostelic
+  name: Charlotte Kostelic
+  last: Kostelic
+  pronouns: she/her/hers
+  institution: New York Public Library/Brooklyn Public Library
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: david-schober
+  name: David Schober
+  last: Schober
+  pronouns: He/His
+  institution: Northwestern University Libraries
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: denzil-phillips
+  name: Denzil Phillips
+  last: Phillips
+  pronouns: he/him/his
+  institution: Princeton University Library
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: devon-murphy
+  name: Devon Murphy
+  last: Murphy
+  pronouns: they/them/their
+  institution: University of Texas at Austin
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: diane-lopez
+  name: Diane Lopez
+  last: Lopez
+  pronouns:
+  institution: University of Texas at San Antonio
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: emily-lynema
+  name: Emily Lynema
+  last: Lynema
+  pronouns: she/her/hers
+  institution: Indiana University
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: eric-hellman
+  name: Eric Hellman
+  last: Hellman
+  pronouns: 他
+  institution: Free Ebook Foundation
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: gavin-mendel-gleason
+  name: Gavin Mendel-Gleason
+  last: Mendel-Gleason
+  pronouns: he/him/his
+  institution: Yale University Library
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: javier-ruedas
+  name: Javier Ruedas
+  last: Ruedas
+  pronouns:
+  institution: University of Texas at San Antonio
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: jen-diamond
+  name: Jen Diamond
+  last: Diamond
+  pronouns: she/her/hers
+  institution: UCLA
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: jeremy-prevost
+  name: Jeremy Prevost
+  last: Prevost
+  pronouns: he/him
+  institution:
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: jeremy-thompson
+  name: Jeremy Thompson
+  last: Thompson
+  pronouns: he/him/his
+  institution: University of Texas Libraries
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: jerry-kuang
+  name: Jerry Kuang
+  last: Kuang
+  pronouns: he/him/his
+  institution:
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: jj-chen
+  name: JJ Chen
+  last: Chen
+  pronouns: she/her/hers
+  institution: Harvard University - Library Technology Services
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: john-dewees
+  name: John Dewees
+  last: Dewees
+  pronouns: he/him/his
+  institution: University of Rochester
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: jon-page
+  name: Jon Page
+  last: Page
+  pronouns: he/him/his
+  institution: NC State University Libraries
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: karla-roig-blay
+  name: Karla Roig Blay
+  last: Blay
+  pronouns: she/her/hers
+  institution: University of Texas Libraries
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: katherine-kate-deibel
+  name: Katherine "Kate" Deibel
+  last: Deibel
+  pronouns: she/her/hers
+  institution:
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: kelly-riddle
+  name: Kelly Riddle
+  last: Riddle
+  pronouns: she/her/hers
+  institution:
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: kyeongmin-rim
+  name: Kyeongmin Rim
+  last: Rim
+  pronouns:
+  institution: Brandeis University
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: lauren-gallina
+  name: Lauren Gallina
+  last: Gallina
+  pronouns: she/her/hers
+  institution: University of Rochester
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: marc-verhagen
+  name: Marc Verhagen
+  last: Verhagen
+  pronouns:
+  institution: Brandeis University
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: marina-fischer
+  name: Marina Fischer
+  last: Fischer
+  pronouns: she/her
+  institution: University of Calgary
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: matt-bernhardt
+  name: Matt Bernhardt
+  last: Bernhardt
+  pronouns: he/him
+  institution:
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: matthew-elliott
+  name: Matthew Elliott
+  last: Elliott
+  pronouns:
+  institution: University of Utah
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: michelle-janowiecki
+  name: Michelle Janowiecki
+  last: Janowiecki
+  pronouns: she/her/hers
+  institution: Johns Hopkins Sherdian Libraries
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: mike-kastellec
+  name: Mike Kastellec
+  last: Kastellec
+  pronouns: he/him/his
+  institution: NC State University Libraries
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: mirko-hanke
+  name: Mirko Hanke
+  last: Hanke
+  pronouns: he/him/his
+  institution: University of Texas Libraries
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: monique-rio
+  name: Monique Rio
+  last: Rio
+  pronouns: she/they
+  institution: University of Michigan
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: owen-king
+  name: Owen King
+  last: King
+  pronouns: he/him
+  institution: GBH Archives
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: reid-boehm
+  name: Reid Boehm
+  last: Boehm
+  pronouns: she/her/hers
+  institution:
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: ryan-harpo-harbert
+  name: Ryan "Harpo" Harbert
+  last: Harbert
+  pronouns: he/him/his
+  institution: GBH Media Library & Archives
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: sarah-hensler
+  name: Sarah Hensler
+  last: Hensler
+  pronouns:
+  institution: Indiana University Bloomington
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: sarah-smulligan
+  name: Sarah Smulligan
+  last: Smulligan
+  pronouns: she/her/hers
+  institution: Pennsylvania State University
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: timothy-a-thompson
+  name: Timothy A. Thompson
+  last: Thompson
+  pronouns: he/him/his
+  institution: Yale University Library
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
+- id: vickie-karasic
+  name: Vickie Karasic
+  last: Karasic
+  pronouns: she/her/hers
+  institution: Princeton University Library
+  position-title:
+  bio:
+  image_alt:
+  keynote: false
