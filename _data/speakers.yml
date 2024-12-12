@@ -16,6 +16,16 @@
   bio:
   image_alt:
   keynote: false
+- id: andreas-orphanides
+  name: Andreas Orphanides
+  last: Orphanides
+  keynote: false
+  institution: NC State University Libraries
+  position-title: Lead Librarian for UX Strategy
+  bio: Andreas Orphanides is the Lead Librarian for UX Strategy at the NC State University Libraries. His work focuses on developing high-quality, thoughtfully designed technology solutions to support teaching, learning, and information discovery. His professional interests include systems analysis, human factors, and information design. Outside of work, he has too many cats.
+  image_src: /assets/img/speakers/andreas-orphanides.jpg
+  image_alt: "Torso shot of a curly-haired, male-presenting person, in profile, wearing a red  jacket, thick gloves, glasses, and black facemask, and wielding a longsword in a high guard. In the background is a statue of a bull and, further back, skyscrapers."
+
 - id: andrew-battelini
   name: Andrew Battelini
   last: Battelini
@@ -57,8 +67,14 @@
   last: Sadler
   pronouns: They/them
   institution: Princeton University Library
-  position-title:
-  bio:
+  pronouns: they/them
+  position-title: Senior Library Software Engineer
+  bio: 'Bess has been building free and open source software for almost thirty years
+    and believes in the liberation potential of open culture, open science, and open
+    technology. Currently, they work building infrastructure to enable reproducible
+    open science.  '
+  slack: bess
+  image_src: /assets/img/speakers/bess_sadler.jpg
   image_alt:
   keynote: false
 - id: binky-lush
@@ -96,6 +112,15 @@
   position-title:
   bio:
   image_alt:
+  keynote: false
+- id: cary-gordon
+  name: Cary Gordon
+  last: Gordon
+  pronouns: 
+  institution: 
+  position-title: 
+  bio: 
+  image_alt: 
   keynote: false
 - id: challen-wright
   name: Challen Wright
@@ -169,6 +194,36 @@
   bio:
   image_alt:
   keynote: false
+- id: eric-lease-morgan
+  name: Eric Lease Morgan
+  last: Morgan 
+  pronouns:
+  institution: University of Notre Dame
+  position-title: Librarian
+  bio: Eric Lease Morgan is a librarian working in the Navari Family Center for Digital Scholarship, Hesburgh Libraries, University of Notre Dame where he provides text mining and natural language processing services to the University community. He does data science with words.
+  image_src: /assets/img/speakers/eric-lease-morgan.jpg
+  image_alt: "Eric is a librarian who works at the University of Notre Dame."
+  keynote: false
+- id: erin-cecele-dunigan
+  name: Erin Cecele Dunigan
+  last: Dunigan
+  pronouns:
+  institution: 
+  position-title: 
+  bio: 
+  image_alt: 
+  keynote: false
+- id: esme-cowles
+  name: Esmé Cowles
+  last: Cowles
+  pronouns: he/him
+  institution: Princeton University Library
+  position-title: Asst. Director, Library Software Engineering
+  bio: I am a technologist with more than twenty years of experience building open software and standards.
+  image_src: /assets/img/speakers/esme-cowles.jpg
+  image_alt: "A bald, middle-aged white man with a close-trimmed red beard which is graying at the chin, wearing tortoiseshell glasses and a dark blue hoodie."
+  slack: escowles
+  keynote: false
 - id: gavin-mendel-gleason
   name: Gavin Mendel-Gleason
   last: Mendel-Gleason
@@ -177,6 +232,15 @@
   position-title:
   bio:
   image_alt:
+  keynote: false
+- id: greg-albers
+  name: Greg Albers
+  last: Albers
+  pronouns: 
+  institution: 
+  position-title: 
+  bio: 
+  image_alt: 
   keynote: false
 - id: javier-ruedas
   name: Javier Ruedas
@@ -411,6 +475,24 @@
   position-title:
   bio:
   image_alt:
+  keynote: false
+- id: sharon-clapp
+  name: Sharon Clapp
+  last: Clapp
+  pronouns: 
+  institution: 
+  position-title: 
+  bio: 
+  image_alt: 
+  keynote: false
+- id: shu-wan
+  name: Shu Wan
+  last: Wan
+  pronouns: 
+  institution: University at Buffalo
+  position-title: 
+  bio: 
+  image_alt: 
   keynote: false
 - id: timothy-a-thompson
   name: Timothy A. Thompson
