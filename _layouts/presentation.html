@@ -38,7 +38,17 @@
                 {% endif %}
 
                 {% if page.attendee-requirements %}
-                    <p><span class="font-weight-bold">Attendee Requirements:</span> {{ page.attendee-requirements }}</p>
+                    {% if page.attendee-requirements.first %}
+                      <p><span class="font-weight-bold">Attendee Requirements:</span>
+                        <ul>
+                         {% for req in page.attendee-requirements %}
+                           <li>{{ req }}</li>
+                         {% endfor %}
+                        </ul>
+                      </p>
+                    {% else %}
+                      <p><span class="font-weight-bold">Attendee Requirements:</span> {{ page.attendee-requirements }}</p>
+                    {% endif %}
                 {% endif %}
                 <hr/>
             {% endif %}
