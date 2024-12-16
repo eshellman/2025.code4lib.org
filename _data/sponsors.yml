@@ -1,0 +1,14 @@
+- name: University Library System, University of Pittsburgh
+  img: /assets/img/sponsors/university_of_pittsburgh_library_system.png
+  link: http://www.library.pitt.edu/
+  level: contributor
+
+- name: iSchool at Illinois
+  img: /assets/img/sponsors/ischool_at_illinois.jpg
+  link: https://ischool.illinois.edu/
+  level: contributor
+
+- name: Rockefeller Archive Center
+  img: /assets/img/sponsors/rockarch.png
+  link: https://rockarch.org/
+  level: bronze
