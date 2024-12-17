@@ -423,7 +423,7 @@ criteria:
   show: false
 
 angel-fund:
-  show: false
+  show: true
   # whether to show the "donation thermometer"
   # NOTE: chart <iframe> needs to be added to angel-fund.html
   thermometer: false
