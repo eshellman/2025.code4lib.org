@@ -420,7 +420,7 @@ volunteer-onsite:
 
 criteria:
   # if you have this year's eligibility requirements, show criteria section on general-info/scholarships
-  show: false
+  show: true
 
 angel-fund:
   show: true
@@ -430,15 +430,15 @@ angel-fund:
   url:
 
 diversity-scholarship-applications:
-  show: false
+  show: true
   url: '/general-info/scholarships#how-to-apply'
   url-text: 'How to Apply'
   end-day: 'Friday'
-  end-date: 'February 9th 2024'
+  end-date: 'January 24th, 2025'
   end-time: '11:59 PM PST'
-  notification-date: 'February 23rd 2024'
-  apply-url: 'https://docs.google.com/forms/d/e/1FAIpQLScLrU4g4U_TPI1bpGFnYTjc1v0Tr7oORaXQPHhCY3eV_tgVvQ/viewform'
-  committee-wiki-url: 'https://wiki.code4lib.org/2024_Scholarship_Documents'
+  notification-date: 'February 10th, 2025'
+  apply-url: 'https://docs.google.com/forms/d/e/1FAIpQLSeATjEPzfD2fXuDDLP-fdq9QQIgnCNx95My_mDimDL-8LDzRA/viewform'
+  committee-wiki-url: 'https://wiki.code4lib.org/2025_Scholarship_Documents'
   max-scholarship-award: '1500'
   max-international-award: '3000'
 
