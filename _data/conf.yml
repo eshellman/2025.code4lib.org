@@ -324,9 +324,9 @@ poster-voting:
   end-date: ''
 
 shirt-voting:
-  show: false
-  url: ''
-  end-date: ''
+  show: true
+  url: 'https://docs.google.com/forms/d/e/1FAIpQLSckxH6fHcAI2tZ8icAOLdEGshV-hTdUM5M3ZGvplxFugJ81Wg/viewform'
+  end-date: '2024-01-17'
 
 ##################
 # Schedule events
