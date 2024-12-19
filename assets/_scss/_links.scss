@@ -11,6 +11,10 @@
   text-decoration: none;
 }
 
+.presentation p a {
+  text-decoration: underline;
+}
+
 #mainNavBar {
     .nav-link {
         color: $cultured-white;
