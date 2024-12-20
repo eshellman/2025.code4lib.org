@@ -107,13 +107,13 @@
 - timeImg: 9.15.png
   title: Opening Keynote
   day1: true
-  #groupId: key-open
+  groupId: key-open
   time: 09:15-10:00
 
 - timeImg: 9.15.png
   title: Closing Keynote
   day3: true
-  #groupId: key-close
+  groupId: key-close
   time: 09:15-10:00
 
 # groups
