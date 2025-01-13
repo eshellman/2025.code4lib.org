@@ -1,3 +1,22 @@
+# gold
+- name: Blacklight
+  img: /assets/img/sponsors/blacklight-logo-vectorized.svg
+  link: https://projectblacklight.org
+  level: gold
+
+# silver
+- name: Developers for Diversity
+  img: /assets/img/sponsors/devs4diversity.png
+  link: https://github.com/pulibrary
+  level: silver
+
+# supporter
+- name: Rockefeller Archive Center
+  img: /assets/img/sponsors/rockarch.png
+  link: https://rockarch.org/
+  level: bronze
+
+# contributor
 - name: University Library System, University of Pittsburgh
   img: /assets/img/sponsors/university_of_pittsburgh_library_system.png
   link: http://www.library.pitt.edu/
@@ -8,7 +27,8 @@
   link: https://ischool.illinois.edu/
   level: contributor
 
-- name: Rockefeller Archive Center
-  img: /assets/img/sponsors/rockarch.png
-  link: https://rockarch.org/
-  level: bronze
+# supporter
+- name: Carnegie Mellon University Libraries
+  img: /assets/img/sponsors/cmu-library.jpeg
+  link: https://library.cmu.edu/
+  level: supporter
