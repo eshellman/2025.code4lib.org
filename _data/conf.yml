@@ -464,3 +464,7 @@ quiet-room:
 
 public-transportation:
   show: true
+
+speaker-info-form:
+  show: true
+  form-url: https://forms.gle/vJCi5rvUPgxrZQA67
