@@ -7,9 +7,11 @@ title: Collecting Speaker Image Descriptions
 	<div class="col-12 forms-page">
 		<h1>Collecting Speaker Image Descriptions</h1>
 
+        {% if site.data.conf.speaker-info-form.show %}
 		<div class="alert alert-warning">
-			<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHQwJai3KGOJA0bzLKoaEQIhFooPoQpXlxsUDU2HeaP7nAfw/viewform">Code4Lib 2024: Speaker Image Form</a>
+			<a href="{{ site.data.conf.speaker-info-form.form-url }}">Code4Lib {{ site.data.conf.year }}: Speaker Image Form</a>
 		</div>
+        {% endif %}
 
 		<p>
 			As part of our ongoing pursuit of an increasingly accessible Code4Lib experience, we are improving the conference's speaker page by providing <em>more descriptive</em> alternative text for the speaker images. Instead of just repeating the person's name, we are asking all speakers to provide a short description of their provided image. The provided text will be set as the <i><code>alt</code></i> text but also made visible alongside the bios as shown in the screenshot.

@@ -63,11 +63,16 @@
 - id: beck-davis
   name: Beck Davis
   last: Davis
-  pronouns: they/them/their
+  pronouns: They/Them
   institution: Princeton University Library
-  position-title:
-  bio:
-  image_alt:
+  position-title: Early Career Fellow
+  bio: "Beck is an Early Career Fellow on the Princeton University Library IT Operations team. They
+    gained experience in cataloging and metadata transformation before diving headfirst into DevOps
+    Engineering and Systems Administration. They hold a MLS from North Carolina Central University
+    and occasionally hold a very large cat or very small dog on zoom calls."
+  image_src: "/assets/img/speakers/beck-davis.jpg"
+  image_alt: "A light-complexion masculine-presenting individual with a short, curly haircut wearing
+    round glasses and blue-green floral print buttoned down shirt."
   keynote: false
 - id: bess-sadler
   name: Bess Sadler
@@ -96,11 +101,17 @@
 - id: brandon-patterson
   name: Brandon Patterson
   last: Patterson
-  pronouns: he/him/his
+  pronouns: He/Him
   institution: University of Utah
-  position-title:
-  bio:
-  image_alt:
+  position-title: Technology Engagement Librarian
+  bio: "Brandon Patterson is the Technology Engagement Librarian at the Spencer S. Eccles Health
+    Sciences Library at the University of Utah. He connects students, staff, and faculty to digital
+    tools and emerging technologies. He is a health sciences education liaison and coordinates with
+    faculty to incorporate information literacy instruction and educational technology into their
+    classrooms."
+  image_src: "/assets/img/speakers/brandon-patterson.jpg"
+  image_alt: "Brandon is smiling and appears to be in a professional setting, wearing a button-up
+    shirt and jacket."
   keynote: false
 - id: brendan-quinn
   name: Brendan Quinn
@@ -168,11 +179,22 @@
 - id: devon-murphy
   name: Devon Murphy
   last: Murphy
-  pronouns: they/them/their
+  pronouns: they/them
   institution: University of Texas at Austin
-  position-title:
-  bio:
-  image_alt:
+  position-title: Metadata Analyst
+  bio: "Devon Murphy (they/them) currently works as the Metadata Analyst at the University of Texas
+    at Austin. In this role, Murphy oversees standards, policies, and data models for the Libraries'
+    holdings. They received dual masters degrees in Art History and Information Science at the
+    University of North Carolina at Chapel Hill (2019), examining cataloging of Cherokee baskets by
+    Native and non-Native institutions. Some of their previous work includes the Best Practices for
+    Queer Metadata (2024) and the Metadata Best Practices for Trans and Gender Diverse Resources
+    (2022). Murphy also serves as a member of the Visual Resources Association’s (VRA) Equitable
+    Action Committee."
+  image_src: "/assets/img/speakers/devon-murphy.jpg"
+  image_alt: "A color photograph of a non-binary individual from the waist up. The person is wearing
+    a thick sweater, two necklaces made of dentalium shell, gold metal, and beads, and has their
+    long hair down. The figure is looking off to the right side, smiling mildly. It is equal
+    measures polite interest and disintrest."
   keynote: false
 - id: diane-lopez
   name: Diane Lopez
@@ -333,11 +355,17 @@
 - id: katherine-kate-deibel
   name: Katherine "Kate" Deibel
   last: Deibel
-  pronouns: she/her/hers
-  institution:
-  position-title:
-  bio:
-  image_alt:
+  pronouns: she/her
+  institution: Philadelphia College of Osteopathic Medicine
+  position-title: Systems Librarian
+  bio: "Dr. Kate Deibel is a longstanding advocate for accessibility and usability in library
+    technologies. She has a PhD in Computer Science from the University of Washington but would much
+    rather talk about web comics, chili peppers, her cat, technology adoption, and changing the
+    world. She briefly left libraries for industry but is happily back working as PCOM Library's
+    systems librarian."
+  image_src: "/assets/img/speakers/katherine-kate-deibel.png"
+  image_alt: "Cartoon avatar of a quite pale white bespectacled brunette geek girl whose open
+    downturned mouth is adamantly advocating an important point or three. A bookcase is behind her."
   keynote: false
 - id: kelly-riddle
   name: Kelly Riddle
@@ -502,10 +530,17 @@
   name: Sarah Hensler
   last: Hensler
   pronouns:
-  institution: Indiana University Bloomington
-  position-title:
-  bio:
-  image_alt:
+  institution: Indiana University
+  position-title: Graduate Student
+  bio: "Sarah Hensler is in her final semester of her MLS program at Indiana University, where she
+    does a little bit of everything- manuscript processing at the Lilly Library, digital humanities
+    at the Global and International School, and even some religious archiving. She works
+    predominantly in archival outreach to K-12 educators. When she's not in class or on the clock,
+    Sarah is probably making ugly graphic design, doing history research, or having yet another cup
+    of coffee."
+  image_src: "/assets/img/speakers/sarah-hensler.jpg"
+  image_alt: "A young woman grins at the camera with her graduation cap and stole. She is posed on a
+    staircase outside a university building."
   keynote: false
 - id: sarah-smulligan
   name: Sarah Smulligan
@@ -547,8 +582,16 @@
   name: Vickie Karasic
   last: Karasic
   pronouns: she/her/hers
-  institution: Princeton University Library
-  position-title:
-  bio:
-  image_alt:
+  institution: Princeton University
+  position-title: Library IT Operations Engineer
+  bio: "Vickie joined Princeton University Library in June 2022; she provides support and
+    instruction around several library-wide applications and assists with network infrastructure,
+    security, monitoring, and maintenance. Previously, her work focused on teaching, research, and
+    learning within educational technology, library spaces, and subject collections. Vickie holds
+    an MLIS from Drexel University, MA in English and Comparative Literature from Columbia
+    University, and BA in Comparative Literature and French from Cornell University."
+  image_src: "/assets/img/speakers/vickie-karasic.jpg"
+  image_alt: "A slightly freckled white woman with brown hair wearing rounded brown eyeglasses,
+    looking happy and professional, and wearing a black top with purple, green, and white flowers.
+    There is a dark gray backdrop behind her."
   keynote: false
