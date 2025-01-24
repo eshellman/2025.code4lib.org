@@ -63,11 +63,16 @@
 - id: beck-davis
   name: Beck Davis
   last: Davis
-  pronouns: they/them/their
+  pronouns: They/Them
   institution: Princeton University Library
-  position-title:
-  bio:
-  image_alt:
+  position-title: Early Career Fellow
+  bio: "Beck is an Early Career Fellow on the Princeton University Library IT Operations team. They
+    gained experience in cataloging and metadata transformation before diving headfirst into DevOps
+    Engineering and Systems Administration. They hold a MLS from North Carolina Central University
+    and occasionally hold a very large cat or very small dog on zoom calls."
+  image_src: "/assets/img/speakers/beck-davis.jpg"
+  image_alt: "A light-complexion masculine-presenting individual with a short, curly haircut wearing
+    round glasses and blue-green floral print buttoned down shirt."
   keynote: false
 - id: bess-sadler
   name: Bess Sadler
@@ -96,11 +101,17 @@
 - id: brandon-patterson
   name: Brandon Patterson
   last: Patterson
-  pronouns: he/him/his
+  pronouns: He/Him
   institution: University of Utah
-  position-title:
-  bio:
-  image_alt:
+  position-title: Technology Engagement Librarian
+  bio: "Brandon Patterson is the Technology Engagement Librarian at the Spencer S. Eccles Health
+    Sciences Library at the University of Utah. He connects students, staff, and faculty to digital
+    tools and emerging technologies. He is a health sciences education liaison and coordinates with
+    faculty to incorporate information literacy instruction and educational technology into their
+    classrooms."
+  image_src: "/assets/img/speakers/brandon-patterson.jpg"
+  image_alt: "Brandon is smiling and appears to be in a professional setting, wearing a button-up
+    shirt and jacket."
   keynote: false
 - id: brendan-quinn
   name: Brendan Quinn
