@@ -32,3 +32,8 @@
   img: /assets/img/sponsors/cmu-library.jpeg
   link: https://library.cmu.edu/
   level: supporter
+
+- name: ArchivesSpace 
+  img: /assets/img/sponsors/archivesspace_logo.jpg
+  link: https://archivesspace.org/
+  level: supporter
