@@ -90,7 +90,7 @@ venue:
     show: true
     name: The Graduate
     cost: $269/night (king) or $299/night (two doubles)
-    cost-cutoff-date: 2025-01-23
+    cost-cutoff-date: 2025-02-11
     reserved-room-block: true
     link: https://www.hilton.com/en/hotels/pctgpgu-graduate-princeton/
     multiple-hotels: true
