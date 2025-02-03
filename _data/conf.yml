@@ -216,7 +216,7 @@ peri:
       menu: 'day2-menus.html'
     pm:
       title: 'Reception'
-      desc: 'Fowling Warehouse'
+      desc: 'Frick Taylor Commons'
       link: '/general-info/venues/#reception'
       menu: 'day2-menus.html#Reception'
   day3:
@@ -355,20 +355,20 @@ morning-run:
   time: '7:00AM'
 
 reception:
-  show: false
-  venue: ''
-  street: ''
-  city-state: ''
-  postal-code: ''
-  phone: ''
-  image: 
-  image_alt: ''
-  image_title: ''
-  contact: ''
+  show: true
+  venue: 'Frick Taylor Commons'
+  street: 'Frick Chemistry Laboratory'
+  city-state: 'Princeton, NJ'
+  postal-code: '08544'
+  phone:
+  image: frick-taylor-commons.jpg
+  image_alt: 'View of the Taylor Commons atrium inside the Frick Chemistry Lab.'
+  image_title: 'Frick Taylor Commons'
+  contact:
   floorplans:
-  date: ''
-  times: 
-  shuttle: ''
+  date: '2025-03-11'
+  times: '6:30pm-8:30pm'
+  shuttle: 'All <a href="https://transportation.princeton.edu/getting-around/tigertransit/weekdays">TigerTransit</a> routes stop near the Frick Chemistry Lab. The closest stop is the Goheen Walk stop on Washington Road. From the shuttle stop, cross to the east side of Washington Road and proceed south (downhill) and the Frick Chemistry Lab will be on your left.'
   special-notes: ''
 
 tours:

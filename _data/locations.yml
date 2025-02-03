@@ -22,3 +22,9 @@
       name: 101
     - id: atrium
       name: Atrium
+- id: frick
+  name: Frick Chemistry Laboratory
+  google_maps: https://maps.app.goo.gl/A3zF1AJ2fDJACw146
+  rooms:
+    - id: taylor-commons
+      name: Taylor Commons
