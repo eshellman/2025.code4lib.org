@@ -8,7 +8,7 @@ length: 20
 day: 1
 group: 1
 spot: 5
-location: mcdonnell
+location: friend
 speakers:
 - katherine-kate-deibel
 speaker-text: Katherine "Kate" Deibel

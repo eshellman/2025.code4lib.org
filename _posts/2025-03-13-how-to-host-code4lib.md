@@ -9,7 +9,7 @@ max-attendees: 15
 time: pm
 startTime: 1:30pm
 endTime: 4:30pm
-location: 
+location: lewis
 room: 
 speakers:
 - esme-cowles

@@ -8,7 +8,7 @@ length: 10
 day: 1
 group: 1
 spot: 4
-location: mcdonnell
+location: friend
 speakers:
 - alyssa-panetta
 speaker-text: Alyssa Panetta

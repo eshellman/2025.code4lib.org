@@ -8,7 +8,7 @@ length: 10
 day: 2
 group: 6
 spot: 4
-location: mcdonnell
+location: friend
 speakers:
 - michelle-janowiecki
 speaker-text: Michelle Janowiecki

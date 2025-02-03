@@ -8,7 +8,7 @@ length: 10
 day: 1
 group: 2
 spot: 4
-location: mcdonnell
+location: friend
 speakers:
 - emily-lynema
 speaker-text: Emily Lynema

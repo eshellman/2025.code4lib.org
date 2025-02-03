@@ -8,7 +8,7 @@ length: 15
 day: 1
 group: 3
 spot: 3
-location: mcdonnell
+location: friend
 speakers:
 - owen-king
 - kyeongmin-rim

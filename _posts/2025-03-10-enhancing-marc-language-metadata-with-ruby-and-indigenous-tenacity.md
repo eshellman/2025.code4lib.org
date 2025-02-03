@@ -8,7 +8,7 @@ length: 15
 day: 1
 group: 3
 spot: 5
-location: mcdonnell
+location: friend
 speakers:
 - beck-davis
 speaker-text: Beck Davis

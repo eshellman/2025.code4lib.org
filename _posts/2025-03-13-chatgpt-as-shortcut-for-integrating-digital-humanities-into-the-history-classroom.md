@@ -9,7 +9,7 @@ max-attendees: 20
 time: am
 startTime: 9:00am
 endTime: 12:00pm
-location: 
+location: lewis
 room: 
 speakers:
 - shu-wan

@@ -8,7 +8,7 @@ length: 20
 day: 2
 group: 6
 spot: 1
-location: mcdonnell
+location: friend
 speakers:
 - sarah-smulligan
 - binky-lush

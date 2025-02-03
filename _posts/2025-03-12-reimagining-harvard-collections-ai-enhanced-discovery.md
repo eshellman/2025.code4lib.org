@@ -8,7 +8,7 @@ length: 20
 day: 3
 group: 7
 spot: 2
-location: mcdonnell
+location: friend
 speakers:
 - jj-chen
 speaker-text: JJ Chen

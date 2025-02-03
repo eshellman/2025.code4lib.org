@@ -8,7 +8,7 @@ length: 10
 day: 1
 group: 2
 spot: 5
-location: mcdonnell
+location: friend
 speakers:
 - ryan-harpo-harbert
 speaker-text: Ryan "Harpo" Harbert

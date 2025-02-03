@@ -8,7 +8,7 @@ length: 10
 day: 1
 group: 3
 spot: 2
-location: mcdonnell
+location: friend
 speakers:
 - brandon-patterson
 - matthew-elliott

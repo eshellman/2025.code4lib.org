@@ -8,7 +8,7 @@ length: 10
 day: 3
 group: 7
 spot: 4
-location: mcdonnell
+location: friend
 speakers:
 - andrew-battelini
 speaker-text: Andrew Battelini

@@ -8,7 +8,7 @@ length: 15
 day: 1
 group: 1
 spot: 2
-location: mcdonnell
+location: friend
 speakers:
 - andromeda-yelton
 speaker-text: Andromeda Yelton

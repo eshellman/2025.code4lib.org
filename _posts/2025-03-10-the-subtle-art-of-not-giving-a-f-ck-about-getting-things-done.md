@@ -8,7 +8,7 @@ length: 20
 day: 1
 group: 3
 spot: 1
-location: mcdonnell
+location: friend
 speakers:
 - mike-kastellec
 speaker-text: Mike Kastellec

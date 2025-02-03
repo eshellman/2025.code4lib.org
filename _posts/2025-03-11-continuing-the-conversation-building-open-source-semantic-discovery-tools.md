@@ -8,7 +8,7 @@ length: 20
 day: 2
 group: 5
 spot: 2
-location: mcdonnell
+location: friend
 speakers:
 - david-schober
 - brendan-quinn

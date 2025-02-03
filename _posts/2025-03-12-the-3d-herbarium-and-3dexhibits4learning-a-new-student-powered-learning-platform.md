@@ -8,7 +8,7 @@ length: 10
 day: 3
 group: 7
 spot: 6
-location: mcdonnell
+location: friend
 speakers:
 - aj-bealum
 speaker-text: AJ Bealum

@@ -8,7 +8,7 @@ length: 10
 day: 3
 group: 7
 spot: 3
-location: mcdonnell
+location: friend
 speakers:
 - challen-wright
 speaker-text: Challen Wright

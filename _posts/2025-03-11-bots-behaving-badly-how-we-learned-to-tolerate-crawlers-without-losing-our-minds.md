@@ -8,7 +8,7 @@ length: 20
 day: 2
 group: 4
 spot: 2
-location: mcdonnell
+location: friend
 speakers:
 - jon-page
 - mike-kastellec

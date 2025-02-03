@@ -8,7 +8,7 @@ length: 20
 day: 2
 group: 6
 spot: 5
-location: mcdonnell
+location: friend
 speakers:
 - jen-diamond
 - axa-liauw

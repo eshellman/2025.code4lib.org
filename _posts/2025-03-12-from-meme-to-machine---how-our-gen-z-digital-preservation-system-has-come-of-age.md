@@ -8,7 +8,7 @@ length: 15
 day: 3
 group: 7
 spot: 1
-location: mcdonnell
+location: friend
 speakers:
 - karla-roig-blay
 - jeremy-thompson

@@ -8,6 +8,8 @@ group: key-close
 spot: 1
 length: 45
 type: key-open
+location: friend
+room: 101
 startTime: 2025-03-12T09:15
 categories: keynotes
 title: Dr. Nikko Stevens Keynote

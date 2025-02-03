@@ -8,7 +8,7 @@ length: 10
 day: 2
 group: 4
 spot: 3
-location: mcdonnell
+location: friend
 speakers:
 - marina-fischer
 speaker-text: Marina Fischer

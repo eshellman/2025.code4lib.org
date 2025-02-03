@@ -80,12 +80,12 @@ state: 'NJ'
 
 venue:
   name: 'Princeton University'
-  street: McDonnell Hall
+  street: Friend Center
   postal-code: 08540
-  image: mcdonnell.jpg
-  image_alt: 'An exterior view of McDonnell Hall, a red and brown striped brick building with an angular overhang. Steps lead to the main entrance, which is flanked by an access ramp, bicycles, and stairs to the lower level.'
-  image_title: 'McDonnell Hall'
-  note: 'Conference sessions will be held in McDonnell Hall and adjacent buildings Fine Hall and Lewis Library.'
+  image: friend-center.jpg
+  image_alt: 'An exterior view of the Friend Center, a glass and stone building. A path leads through the courtyard to the main entrance.'
+  image_title: 'Friend Center'
+  note: 'Conference sessions will be held in the Friend Center on Princeton campus.'
   hotel:
     show: true
     name: The Graduate

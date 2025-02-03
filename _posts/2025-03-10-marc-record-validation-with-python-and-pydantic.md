@@ -8,7 +8,7 @@ length: 10
 day: 1
 group: 3
 spot: 4
-location: mcdonnell
+location: friend
 speakers:
 - charlotte-kostelic
 speaker-text: Charlotte Kostelic

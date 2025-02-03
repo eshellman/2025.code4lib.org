@@ -8,7 +8,7 @@ length: 15
 day: 2
 group: 4
 spot: 1
-location: mcdonnell
+location: friend
 speakers:
 - brian-cain
 speaker-text: Brian Cain

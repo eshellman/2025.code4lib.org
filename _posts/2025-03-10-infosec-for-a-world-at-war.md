@@ -8,7 +8,7 @@ length: 20
 day: 1
 group: 2
 spot: 1
-location: mcdonnell
+location: friend
 speakers:
 - bess-sadler
 speaker-text: Bess Sadler

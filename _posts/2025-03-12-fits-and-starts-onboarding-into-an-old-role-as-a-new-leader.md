@@ -8,7 +8,7 @@ length: 10
 day: 3
 group: 7
 spot: 5
-location: mcdonnell
+location: friend
 speakers:
 - kelly-riddle
 speaker-text: Kelly Riddle

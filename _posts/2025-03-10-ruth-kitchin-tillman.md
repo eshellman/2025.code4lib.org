@@ -8,6 +8,8 @@ group: key-open
 spot: 1
 length: 45
 type: key-open
+location: friend
+room: 101
 startTime: 2025-03-10T09:15
 categories: keynotes
 title: Ruth Kitchin Tillman Keynote

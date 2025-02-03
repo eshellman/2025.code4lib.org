@@ -8,7 +8,7 @@ length: 15
 day: 1
 group: 2
 spot: 2
-location: mcdonnell
+location: friend
 speakers:
 - lauren-gallina
 - john-dewees

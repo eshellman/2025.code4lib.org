@@ -8,7 +8,7 @@ length: 15
 day: 1
 group: 1
 spot: 6
-location: mcdonnell
+location: friend
 speakers:
 - timothy-a-thompson
 - gavin-mendel-gleason

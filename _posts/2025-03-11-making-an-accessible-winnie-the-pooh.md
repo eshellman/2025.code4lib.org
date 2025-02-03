@@ -8,7 +8,7 @@ length: 15
 day: 2
 group: 5
 spot: 1
-location: mcdonnell
+location: friend
 speakers:
 - eric-hellman
 speaker-text: Eric Hellman

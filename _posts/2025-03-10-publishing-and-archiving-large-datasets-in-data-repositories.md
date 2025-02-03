@@ -8,7 +8,7 @@ length: 10
 day: 1
 group: 1
 spot: 7
-location: mcdonnell
+location: friend
 speakers:
 - jerry-kuang
 - reid-boehm

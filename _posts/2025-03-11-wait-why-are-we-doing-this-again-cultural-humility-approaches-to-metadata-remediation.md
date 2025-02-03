@@ -8,7 +8,7 @@ length: 15
 day: 2
 group: 6
 spot: 3
-location: mcdonnell
+location: friend
 speakers:
 - devon-murphy
 speaker-text: Devon Murphy

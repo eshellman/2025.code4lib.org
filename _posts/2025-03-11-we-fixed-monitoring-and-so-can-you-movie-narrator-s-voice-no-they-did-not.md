@@ -8,7 +8,7 @@ length: 10
 day: 2
 group: 6
 spot: 2
-location: mcdonnell
+location: friend
 speakers:
 - vickie-karasic
 - denzil-phillips

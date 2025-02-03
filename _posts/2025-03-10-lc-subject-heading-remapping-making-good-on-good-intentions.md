@@ -8,7 +8,7 @@ length: 20
 day: 1
 group: 1
 spot: 1
-location: mcdonnell
+location: friend
 speakers:
 - monique-rio
 speaker-text: Monique Rio
