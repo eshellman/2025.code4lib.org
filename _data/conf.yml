@@ -339,10 +339,10 @@ diy-social:
   show: true
 
 newcomer-dinner:
-  show: false
+  show: true
   description: 'The Newcomer Dinner is an opportunity for veterans of the code4lib conference to meet and welcome first-timers. Attendees sign up to join others for dinner as a gentle introduction to the code4lib conference.'
-  signup-url: ''
-  signup-button-text: '#c4l25 Newcomer Dinner Information and Sign Up'
+  signup-url: 'https://docs.google.com/document/d/1Btl1pnELNnQCfj00CZue_m_qW13zkF-dYz4OX_JubNE/edit'
+  signup-button-text: 'Code4Lib 2025 Newcomer Dinner Information and Sign Up'
   date: '2025-03-10'
   time: '6pm or later'
   link: '/general-info/social/#newcomer-dinner'
