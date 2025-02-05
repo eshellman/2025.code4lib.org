@@ -383,15 +383,15 @@ tours:
       description: ''
 
 game-night:
-  show: false
+  show: true
   date: '2025-03-12'
   time: '6:30pm'
-  location: ''
+  location: 'Frist Campus Center, A-Floor seating area'
   description: 'Join fellow Code4Libers at a BYO-Game and Snacks/Non-alcoholic drink Game Night!
 '
-  event-url: 'https://docs.google.com/spreadsheets/d/125IBzci7jOdgWyv8eDOJ65HotLTem-4zKjBWDp7w_t0/edit'
+  event-url: ''
   event-url-button-text: 'Sign Up'
-  sign-up-url: ''
+  sign-up-url: 'https://docs.google.com/spreadsheets/d/1rflp2DsG7KeqlZzVRMbcvV5rNFcjMgU4NaDf9eUKsa4/edit'
   sign-up-button-text: 'Sign Up for Game Night'
 
 ###############
