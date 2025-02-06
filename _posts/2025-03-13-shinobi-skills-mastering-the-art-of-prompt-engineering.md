@@ -2,7 +2,7 @@
 layout: presentation
 type: workshop
 categories: workshops
-full: false
+full: true
 learning-outcomes: 
 attendee-requirements: You need a robust laptop that will handle multiple browser tabs, must be comfortable with data privacy issues that may arise in the creation and use of accounts for one of the premiere LLM/multimodal generative AI platforms, such as ChatGPT, Claude, Gemini, or Copilot. Free versions are fine, particularly if you pair up with another participant in case you hit limits. No coding skills required.
 max-attendees: 16
