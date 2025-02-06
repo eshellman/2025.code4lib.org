@@ -25,6 +25,8 @@
 
             {% if page.full == true %}
                 <p class="alert alert-warning">This workshop is at maximum capacity and no longer accepting registrations.</p>
+            {% elsif page.full == "canceled" %}
+                <p class="alert alert-danger">This workshop has been canceled.</p>
             {% elsif page.full == "limited" %}
                 <p class="alert alert-warning">This workshop is near capacity.</p>
             {% endif %}

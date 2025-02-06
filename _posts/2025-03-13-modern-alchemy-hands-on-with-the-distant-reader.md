@@ -2,7 +2,7 @@
 layout: presentation
 type: workshop
 categories: workshops
-full: false
+full: true
 learning-outcomes: 
 attendee-requirements: None, but participants ought to bring their own computer; BYOD
 max-attendees: 12

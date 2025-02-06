@@ -2,7 +2,7 @@
 layout: presentation
 type: workshop
 categories: workshops
-full: false
+full: canceled
 learning-outcomes: 
 attendee-requirements: bring laptops into the workshop
 max-attendees: 20
