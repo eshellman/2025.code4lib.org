@@ -10,11 +10,27 @@
   link: https://github.com/pulibrary
   level: silver
 
-# supporter
+- name: MIT Libraries
+  img: /assets/img/sponsors/mit-libraries.png
+  link: https://libraries.mit.edu/
+  level: silver
+
+# bronze
 - name: Rockefeller Archive Center
   img: /assets/img/sponsors/rockarch.png
   link: https://rockarch.org/
   level: bronze
+
+- name : 4Science
+  img: /assets/img/sponsors/4science.png
+  link: https://www.4science.com/
+  level: bronze
+  diversity: true
+
+# exhibitor
+- name: 4Science
+  link: https://www.4science.com/
+  level: exhibitor
 
 # contributor
 - name: University Library System, University of Pittsburgh
