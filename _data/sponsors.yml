@@ -27,6 +27,11 @@
   level: bronze
   diversity: true
 
+- name: Johns Hopkins University, Sheridan Libraries
+  img: /assets/img/sponsors/johns-hopkins.jpg
+  link: https://www.library.jhu.edu/
+  level: bronze
+
 # exhibitor
 - name: 4Science
   link: https://www.4science.com/
