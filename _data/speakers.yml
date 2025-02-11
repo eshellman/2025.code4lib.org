@@ -233,9 +233,14 @@
   last: Lynema
   pronouns: she/her/hers
   institution: Indiana University
-  position-title:
-  bio:
-  image_alt:
+  position-title: Head, Digital Media Software Development
+  bio: "Emily is the head of Digital Media Software Development at the Indiana University Library 
+    (Bloomington). She leads a team of developers (and a PO!) that support the Avalon Media System, 
+    an open source platform in the Samvera community for managing and accessing digital audiovisual materials. 
+    The group is also building the Audiovisual Metadata Platform, which attempts to leverage machine 
+    learning/AI tools to generate metadata for AV media."
+  image_src: "/assets/img/speakers/emily-lynema.jpg"
+  image_alt: "Casual selfie of a white woman with long brunette hair and brown eyes taken in the middle of a run on a pier with Lake Michigan in the background"
   keynote: false
 - id: eric-hellman
   name: Eric Hellman
