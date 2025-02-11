@@ -471,9 +471,10 @@
   last: Janowiecki
   pronouns: she/her/hers
   institution: Johns Hopkins Sherdian Libraries
-  position-title:
-  bio:
-  image_alt:
+  position-title: Digital Content Metadata Specialist
+  bio: "Michelle Janowiecki is a metadata librarian whose work focuses on digital collections, metadata remediation, and anything bulk editing. She's passionate about Python, the power of APIs, and critical cataloging practices."
+  image_src: "/assets/img/speakers/michelle-janowiecki.jpg"
+  image_alt: "A white woman in her thirties with blond pink hair and glasses is smiling at the camera. A dark green wall with photos and a lamp is behind her."
   keynote: false
 - id: mike-kastellec
   name: Mike Kastellec
