@@ -4,7 +4,9 @@
       <h2 id="tours">Tours</h2>
       <p></p>
       <p>Space on each tour is limited, so please sign up today! Tour location details and where to meet are on the sign-up sheet.</p>
+      {% if site.data.conf.tours.sign-up-url %}
       <p><a class="btn ct-btn-light" target="blank" href="{{site.data.conf.tours.sign-up-url}}">{{site.data.conf.tours.sign-up-button-text}}</a>
+      {% endif %}
 
       {% for tour in site.data.conf.tours.tours %}
       <div class="social-event-details">
