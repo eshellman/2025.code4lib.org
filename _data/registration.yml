@@ -19,13 +19,13 @@ conference:
   workshop-half-day-cost: '$40'
   workshop-full-day-cost: '$80'
   limited-capacity: true
-  waitlist: true
+  waitlist: false
 
 workshop-only:
   # "show" only toggles the display of info in the registration bullets on the general-info/attend page
   show: true
   # "show-button" only affects button on /general-info/attend (useful in main conf is sold out)
-  show-button: true
+  show-button: false
   undecided: false
   undecided-text: "Depending on availability, Workshop-ONLY registration may open at the beginning of May."
   url:
