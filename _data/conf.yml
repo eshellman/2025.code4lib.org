@@ -390,6 +390,16 @@ tours:
       location: '<a href="https://maps.app.goo.gl/mqBggptNxZ9yEXGn6">Firestone Library</a> lobby'
       sign-up-url: https://libcal.princeton.edu/event/14188504
       sign-up-button-text: 'Sign Up (4pm)'
+    - name: 'Digital Imaging Studio, Firestone (3pm)'
+      date: '03/12/2025 3pm'
+      location: '<a href="https://maps.app.goo.gl/mqBggptNxZ9yEXGn6">Firestone Library</a> lobby'
+      sign-up-url: https://docs.google.com/forms/d/e/1FAIpQLSfMjfsOKWXkQ723X6vAEWPUPuqS2mYl9eGfE2gDRoJ7km2wOw/viewform
+      sign-up-button-text: 'Sign Up (3pm)'
+    - name: 'Digital Imaging Studio, Firestone (4pm)'
+      date: '03/12/2025 4pm'
+      location: '<a href="https://maps.app.goo.gl/mqBggptNxZ9yEXGn6">Firestone Library</a> lobby'
+      sign-up-url: https://docs.google.com/forms/d/e/1FAIpQLSfMjfsOKWXkQ723X6vAEWPUPuqS2mYl9eGfE2gDRoJ7km2wOw/viewform
+      sign-up-button-text: 'Sign Up (4pm)'
 
 game-night:
   show: true
