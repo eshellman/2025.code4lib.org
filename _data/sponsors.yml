@@ -32,6 +32,18 @@
   link: https://www.library.jhu.edu/
   level: bronze
 
+- name: Notch 8
+  img: /assets/img/sponsors/notch8.png
+  link: https://notch8.com/
+  level: bronze
+
+- name: Princeton University Library
+  img: /assets/img/sponsors/princeton-library.png
+  link: https://library.princeton.edu/
+  level: bronze
+  annotation: "Closed Captioning, Diversity Scholarships" #Hack to make sure they both show; the annotation field seems to override the diversity field
+  diversity: true
+
 # exhibitor
 - name: 4Science
   link: https://www.4science.com/
