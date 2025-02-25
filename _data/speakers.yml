@@ -457,10 +457,12 @@
   name: Matt Bernhardt
   last: Bernhardt
   pronouns: he/him
-  institution:
-  position-title:
-  bio:
-  image_alt:
+  institution: MIT Libraries
+  position-title: Senior Software Engineer
+  bio: "Matt (he /him) is a senior software engineer at the MIT Libraries on discovery and CMS projects. He has previously worked as an educational technology professional across a variety of contexts: web development and design, digital fabrication, data visualization and modeling, and technology support. He holds an architecture degree from Ohio State University. Outside of work, he pays too much attention to space, soccer, and F1."
+  image_src: "/assets/img/speakers/matt-bernhardt.jpg"
+  image_alt: "Matt is a balding middle-aged white male, with wire rim glasses, wearing a collared button down shirt. He has a laptop bag over his shoulder, and he is squinting slightly into bright daylight."
+  slack: matt-bernhardt
   keynote: false
 - id: matthew-elliott
   name: Matthew Elliott
