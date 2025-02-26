@@ -13,9 +13,9 @@ conference:
   end-date: '2025-02-11'
   cancellation-date: '2025-02-11'
   # "open" means people can register
-  open: true
-  cost: '$250'
-  late-cost: '$299'
+  open: false
+  cost: '<b>SOLD OUT</b>'
+  late-cost: '<b>SOLD OUT</b>'
   workshop-half-day-cost: '$40'
   workshop-full-day-cost: '$80'
   limited-capacity: true
@@ -36,7 +36,7 @@ workshop-only:
   end-date:
 
 t-shirt-only:
-  show: true
+  show: false
   start-date: '2024-12-16'
   cost: '$29'
   # should be one or the other: have to purchase by last-date or cost changes after late-date
