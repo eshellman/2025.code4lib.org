@@ -14,7 +14,7 @@ time: am
 startTime: 9:00am
 endTime: 12:00pm
 location: lewis
-room: 
+room: 121
 speakers:
 - matthew-elliott
 - brandon-patterson

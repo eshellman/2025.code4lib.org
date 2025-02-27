@@ -10,7 +10,7 @@ time: am
 startTime: 9:00am
 endTime: 12:00pm
 location: lewis
-room: 
+room: 122
 speakers:
 - cary-gordon
 speaker-text: Cary Gordon

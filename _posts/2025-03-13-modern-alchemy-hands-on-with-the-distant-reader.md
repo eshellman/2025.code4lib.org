@@ -10,7 +10,7 @@ time: am
 startTime: 9:00am
 endTime: 12:00pm
 location: lewis
-room: 
+room: 134
 speakers:
 - eric-lease-morgan
 speaker-text: Eric Lease Morgan
