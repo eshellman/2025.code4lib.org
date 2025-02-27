@@ -14,4 +14,4 @@ speakers:
 speaker-text: Katherine "Kate" Deibel
 title: "Making the Development Process Inclusive of Disabilities"
 ---
-With accessibility, we often think about the finished technology. Disabled people, however, are not just users. Many developers, managers, testers, etc. have disabilities that our work practices may be problematic but addressable. This talk will highlight several common practices and tools used in development (e.g., Slack, agile) and how to make them more inclusive for sensory disabilities and neurodivergence.
+With accessibility, we often think about the finished technology. Disabled people, however, are not just users. Many developers, managers, testers, etc. have disabilities that our work practices may be problematic but addressable. This talk will highlight several common practices and tools used in development (e.g., Slack, agile) and how to make them more inclusive for physical and sensory disabilities as well as neurodivergences.
