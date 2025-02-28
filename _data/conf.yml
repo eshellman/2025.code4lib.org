@@ -373,31 +373,36 @@ reception:
 
 tours:
   show: true
-  date: 2025-03-12
+  date: '2025-03-12'
   time: '3PM to 5PM'
   tours:
     - name: 'Lewis Library (3pm)'
-      date: '03/12/2025 3pm'
+      date: '2025-03-12'
+      time: '3pm'
       location: '<a href="https://maps.app.goo.gl/4VuJQTCuYqPuLWsL9">Lewis Library</a> lobby'
       sign-up-url: https://docs.google.com/forms/d/e/1FAIpQLScBoS-6J6eus-yVrNSmz0jDGe3hLWF8f-O6Qu07McxPM9AITA/viewform
       sign-up-button-text: 'Sign Up (3pm)'
     - name: 'Firestone Library (3pm)'
-      date: '03/12/2025 3pm'
+      date: '2025-03-12'
+      time: '3pm'
       location: '<a href="https://maps.app.goo.gl/mqBggptNxZ9yEXGn6">Firestone Library</a> lobby'
       sign-up-url: https://libcal.princeton.edu/event/14188503
       sign-up-button-text: 'Sign Up (3pm)'
     - name: 'Firestone Library (4pm)'
-      date: '03/12/2025 4pm'
+      date: '2025-03-12'
+      time: '4pm'
       location: '<a href="https://maps.app.goo.gl/mqBggptNxZ9yEXGn6">Firestone Library</a> lobby'
       sign-up-url: https://libcal.princeton.edu/event/14188504
       sign-up-button-text: 'Sign Up (4pm)'
     - name: 'Digital Imaging Studio, Firestone (3pm)'
-      date: '03/12/2025 3pm'
+      date: '2025-03-12'
+      time: '3pm'
       location: '<a href="https://maps.app.goo.gl/mqBggptNxZ9yEXGn6">Firestone Library</a> lobby'
       sign-up-url: https://docs.google.com/forms/d/e/1FAIpQLSfMjfsOKWXkQ723X6vAEWPUPuqS2mYl9eGfE2gDRoJ7km2wOw/viewform
       sign-up-button-text: 'Sign Up (3pm)'
     - name: 'Digital Imaging Studio, Firestone (4pm)'
-      date: '03/12/2025 4pm'
+      date: '2025-03-12'
+      time: '4pm'
       location: '<a href="https://maps.app.goo.gl/mqBggptNxZ9yEXGn6">Firestone Library</a> lobby'
       sign-up-url: https://docs.google.com/forms/d/e/1FAIpQLSfMjfsOKWXkQ723X6vAEWPUPuqS2mYl9eGfE2gDRoJ7km2wOw/viewform
       sign-up-button-text: 'Sign Up (4pm)'
