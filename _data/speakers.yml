@@ -10,11 +10,19 @@
 - id: alyssa-panetta
   name: Alyssa Panetta
   last: Panetta
-  pronouns: she/her/hers
-  institution: University at Albany
-  position-title:
-  bio:
-  image_alt:
+  pronouns: she/her
+  institution: University Libraries (University at Albany)
+  position-title: Web Designer/Front-end Developer
+  bio: Alyssa has been designing and developing websites by hand since Y2K and is currently Web
+    Designer/Developer for the University Libraries, University at Albany. After a diagnosis of
+    brain cancer in 2020 and subsequent treatment, she became keenly aware of the issues faced by
+    users with cognitive disabilities on the complex websites she maintains. Since then, she
+    advocates for and teaches techniques for lowering the cognitive load of such websites and writes
+    letters to her removed tumor that is preserved in a tumor research bank on her website
+    deartalula.com.
+  image_alt: Woman with gold-rimmed glasses and short, salt-and-pepper hair gives a friendly smile
+    while standing in front of a blue wood-block-printed wallpaper.
+  image_src: /assets/img/speakers/alyssa-panetta.jpg
   keynote: false
 - id: andreas-orphanides
   name: Andreas Orphanides
@@ -336,11 +344,15 @@
 - id: jeremy-thompson
   name: Jeremy Thompson
   last: Thompson
-  pronouns: he/him/his
+  pronouns: he/him
   institution: University of Texas Libraries
-  position-title:
-  bio:
-  image_alt:
+  position-title: Digital Processing Archivist
+  bio: Jeremy Thompson (he/him) is the Digital Processing Archivist at the University of Texas
+    Libraries. In his role, he works cross-departmentally to support the preservation and access of
+    born-digital and digitized archival collection material held at UT Libraries. 
+  image_alt: Jeremy, an African American male, is smiling as pictured from the chest up. He is
+    wearing a navy blue shirt with light blue diamonds and posing in front of a grey backdrop.
+  image_src: /assets/img/speakers/jeremy-thompson.jpg
   keynote: false
 - id: jerry-kuang
   name: Jerry Kuang
@@ -449,20 +461,23 @@
   last: Fischer
   pronouns: she/her
   institution: University of Calgary
-  position-title:
-  bio:
+  position-title: Curator of Numismatics
+  bio: Marina Fischer is a Curator of Numismatics at Nickle Galleries, Libraries and Cultural
+    Resources at the University of Calgary. She holds an M.A. in Ancient History with specialization
+    in Art History from the University of Calgary. She oversees the university’s vast money
+    collection of 23,000 objects spanning from the beginning of coinage in the 7th century BCE to
+    the modern period. She is a recipient of a University of Calgary Teaching Award, and lectures
+    frequently in various departments across campus.
   image_alt:
   keynote: false
 - id: matt-bernhardt
   name: Matt Bernhardt
   last: Bernhardt
   pronouns: he/him
-  institution: MIT Libraries
-  position-title: Senior Software Engineer
-  bio: "Matt (he /him) is a senior software engineer at the MIT Libraries on discovery and CMS projects. He has previously worked as an educational technology professional across a variety of contexts: web development and design, digital fabrication, data visualization and modeling, and technology support. He holds an architecture degree from Ohio State University. Outside of work, he pays too much attention to space, soccer, and F1."
-  image_src: "/assets/img/speakers/matt-bernhardt.jpg"
-  image_alt: "Matt is a balding middle-aged white male, with wire rim glasses, wearing a collared button down shirt. He has a laptop bag over his shoulder, and he is squinting slightly into bright daylight."
-  slack: matt-bernhardt
+  institution:
+  position-title:
+  bio:
+  image_alt:
   keynote: false
 - id: matthew-elliott
   name: Matthew Elliott
@@ -486,11 +501,16 @@
 - id: mike-kastellec
   name: Mike Kastellec
   last: Kastellec
-  pronouns: he/him/his
-  institution: NC State University Libraries
-  position-title:
-  bio:
-  image_alt:
+  pronouns:
+  institution: North Carolina State University Libraries
+  position-title: Associate Head of IT
+  bio: I lead the core infrastructure and developer support team at the NC State Libraries. Before
+    that, I was a Libraries Fellow. Before that, I supported technology in public libraries. I am
+    not a coder, but I could play one on TV.
+  image_alt: A middle-aged white man with short brown hair and a goatee with beard, both of which
+    are sparkled with white, wearing a dark gray sport coat and light gray sweater vest over a light
+    blue dress shirt, smiling at a bad joke he just made.
+  image_src: /assets/img/speakers/mike-kastellec.jpg
   keynote: false
 - id: mirko-hanke
   name: Mirko Hanke
@@ -528,13 +548,19 @@
   image_src: /assets/img/keynotes/nikko-stevens.jpg
   keynote: true
 - id: owen-king
-  name: Owen King
+  name: Owen C. King
   last: King
   pronouns: he/him
   institution: GBH Archives
-  position-title:
-  bio:
-  image_alt:
+  position-title: Metadata Operations Specialist
+  bio: Owen C. King is Metadata Operations Specialist at GBH Archives, working on the American
+    Archive of Public Broadcasting. He coordinates work on automated processing and metadata
+    workflows for archival television and radio programming. He has a background in philosophy, with
+    research and teaching in well-being and information ethics. 
+  image_alt: Selfie photograph of a middle-aged white man with graying hair, wearing a casual,
+    striped shirt and a light nylon windbreaker. He is standing outside, in a field, with red brick
+    university buildings behind him.
+  image_src: /assets/img/speakers/owen-king.jpg
   keynote: false
 - id: reid-boehm
   name: Reid Boehm
