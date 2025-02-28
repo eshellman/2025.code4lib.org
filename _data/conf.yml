@@ -373,7 +373,8 @@ reception:
 
 tours:
   show: true
-  date: '2025-03-12'
+  date: 2025-03-12
+  time: '3PM to 5PM'
   tours:
     - name: 'Lewis Library (3pm)'
       date: '03/12/2025 3pm'
