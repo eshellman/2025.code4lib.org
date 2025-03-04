@@ -238,7 +238,6 @@ active: 'Conduct & Safety'
                                             {% else %}
                                                 <img alt="{{ volunteer.name }}" class="clip-circle-lg" src="{{ volunteer.img }}" alt="{{ volunteer.name }}">
                                             {% endif %}
-
                                         </div>
                                     </div>
                             </div>
@@ -269,11 +268,15 @@ active: 'Conduct & Safety'
 										{% assign volunteer = site.data.community-support[volunteerId] %}
 										<div class="speaker-box text-center">
 											<div class="speaker-box-inner">
-												{% if volunteer.img_alt != nil %}
-													<img alt="{{ volunteer.img_alt }}" class="clip-circle-lg" src="{{ volunteer.img }}" alt="{{ volunteer.name }}">
-												{% else %}
-													<img alt="{{ volunteer.name }}" class="clip-circle-lg" src="{{ volunteer.img }}" alt="{{ volunteer.name }}">
-												{% endif %}
+                                                {% if volunteer.img == nil %}
+                                                    <div class="clip-circle-lg">
+                                                        <p style="color:#fff; font-size:1.15rem; font-style:italic; font-weight:bold; height:100%; display:flex; justify-content:center; align-items:center; padding:1rem;">Image Forthcoming</p>
+                                                    </div>
+                                                {% elsif volunteer.img_alt != nil %}
+                                                    <img alt="{{ volunteer.img_alt }}" class="clip-circle-lg" src="{{ volunteer.img }}" alt="{{ volunteer.name }}">
+                                                {% else %}
+                                                    <img alt="{{ volunteer.name }}" class="clip-circle-lg" src="{{ volunteer.img }}" alt="{{ volunteer.name }}">
+                                                {% endif %}
 												<h4 class="speaker-name">{{ volunteer.name }}</h4>
 											</div>
 										</div>
