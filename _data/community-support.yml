@@ -22,8 +22,8 @@ derven:
   name: Caleb Derven
   last: Derven
   pronouns: he/him/his
-  img:
-  img_alt:
+  img: /assets/img/conduct/derven-caleb.jpg
+  img_alt: "Caleb Derven (he/him) is the Head of Digital Scholarship & Library Systems at the University of Limerick."
   slack_handle: Caleb Derven
   onsite: true
   online: false
@@ -92,8 +92,8 @@ navarro:
   name: Michelle S. Navarro
   last: Navarro
   pronouns: she/her
-  img:
-  img_alt:
+  img: /assets/img/conduct/navarro-michelle-s.png
+  img_alt: "A digital illustration of a woman with short brown hair sitting with a laptop. She is wearing a pink T-shirt. A small black cat is draped over their shoulder with closed eyes. A brown and white ragdoll cat with blue eyes is lying on their lap, partially covering the laptop's keyboard. The laptop is gray with a peach sticker on the back."
   slack_handle: Michelle S. Navarro
   onsite: false
   online: true
