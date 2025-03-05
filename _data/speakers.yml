@@ -256,8 +256,9 @@
   pronouns: 他
   institution: Free Ebook Foundation
   position-title:
-  bio:
-  image_alt:
+  bio: Eric Hellman is an electrical engineer identifying as a physicist with librarian tendencies. Ask him about the double-relative-redirect megabug.
+  image_src: /assets/img/speakers/eric-hellman.jpg
+  image_alt: "Face of a hooded old guy with a steampunk monocle referencing Mad-eye Moody."
   keynote: false
 - id: eric-lease-morgan
   name: Eric Lease Morgan
