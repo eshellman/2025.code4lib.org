@@ -348,10 +348,11 @@ newcomer-dinner:
   link: '/general-info/social/#newcomer-dinner'
 
 morning-run:
-  show: false
-  location: ''
-  description: ""
-  date: ''
+  show: true
+  location: 'Start at the  <a href="https://maps.app.goo.gl/dSjMwdQFE7vwLVAB6">Alexander Rd. Parking area</a>.'
+  description: "Jog4lib! Walk, jog or run on the scenic Delaware and Raritan Canal towpath. Out and back flat course. All paces. Go half as far as you want to, then turn around."
+  contact: '@gluejar'
+  date: '2025-03-11'
   time: '7:00AM'
 
 reception:
